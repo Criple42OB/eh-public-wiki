@@ -1,3 +1,43 @@
 @use "./base.scss";
+@use "./themes";
 
 // put your custom CSS here!
+/* Infobox / sidebar table fix */
+.right {
+  display: none !important;
+}
+
+.callout[data-callout="infobox"] {
+  float: right;
+  clear: right;
+  width: 300px;
+  margin: 0 0 1em 1.5em;
+  font-size: 0.85em;
+  border: 1px solid #555;
+  background-color: #1a1a1a;
+
+  .callout-content {
+    padding: 0.5em;
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 0.5em;
+
+      td, th {
+        border: 1px solid #555;
+        padding: 4px 8px;
+      }
+
+      th {
+        background-color: #6b0000;
+        color: white;
+      }
+    }
+
+    img {
+      width: 100%;
+      height: auto;
+    }
+  }
+}
