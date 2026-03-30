@@ -81,7 +81,7 @@
 - **Armor:** Always ODST or Mjolnir variants (or equivalent)
 - **Colors:** Usually black, dark blue, white, red accents; match squad aesthetic
 - **Weapons:** Use established UCG weapons (Exteria line, Anima Works, SRS 99-S5, etc.)
-- **Attachments:** Suppressors, laser sights, scopes, grips—show customization
+- **Attachments:** Suppressors, laser sights, scopes, grips, show customization
 
 ### Special Notes
 - Include defining physical features (eye color, scars, hybrid traits)

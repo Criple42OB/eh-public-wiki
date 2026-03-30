@@ -1,5 +1,5 @@
 ## Summary
-The Council of Five is the hidden and influential ruling body behind the United Coalition of Galaxies. Comprised of five individuals, their identities are shrouded in secrecy, with each member contributing to the shadowy governance of the UCG. Though their exact roles and motives are cloaked in mystery, they wield immense power over the UCG's military, political, and economic affairs. They were the ones who manipulated global events, steering the UCG toward its rise and its eventual domination. The Council operates from the shadows, orchestrating the fate of entire nations while remaining largely unknown to the public.
+The Council of Five is the hidden and influential ruling body behind the United Coalition Against Tyranny (UCT). Comprised of five individuals, their identities are shrouded in secrecy, with each member contributing to the shadowy governance of the UCG. Though their exact roles and motives are cloaked in mystery, they wield immense power over the UCG's military, political, and economic affairs. They were the ones who manipulated global events, steering the UCG toward its rise and its eventual domination. The Council operates from the shadows, orchestrating the fate of entire nations while remaining largely unknown to the public.
 
 ## Members:
 

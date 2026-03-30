@@ -44,9 +44,9 @@ Capable of carrying **20 passengers** and operated by a **specialized five-membe
 Its **Moray cluster bombs** are instrumental during drop phases, clearing zones or neutralizing threats before troops disembark.
 
 # Cultural Significance  
-Nicknamed the **"Ghost Taxi"** by UCG marines, the Prowler commands a near-mythical reputation. Its near-invisible silhouette and silent operation inspire awe—and fear—on and off the battlefield. Crew members often wear their assignment as a badge of honor, symbolizing precision, discretion, and elite skill.
+Nicknamed the **"Ghost Taxi"** by UCG marines, the Prowler commands a near-mythical reputation. Its near-invisible silhouette and silent operation inspire awe, and fear, on and off the battlefield. Crew members often wear their assignment as a badge of honor, symbolizing precision, discretion, and elite skill.
 
-The Prowler features prominently in recruitment materials and propaganda as a symbol of UCG’s surgical might—present only when needed, and gone before it's noticed.
+The Prowler features prominently in recruitment materials and propaganda as a symbol of UCG’s surgical might, present only when needed, and gone before it's noticed.
 
 # Current Status  
 Actively deployed in **classified operations**, the Prowler remains one of the UCG’s most secretive and valuable assets. Ongoing enhancements include **next-gen composite armor**, **AI-assisted navigation**, and the upcoming **Whisper-class variant**, rumored to feature **quantum cloaking** and **predictive evasion systems**.

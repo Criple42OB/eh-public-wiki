@@ -35,7 +35,7 @@ Equipped with powerful engines, advanced shielding, and a detachable booster roc
 # History  
 The Sabre program began as a response to the growing threat of agile enemy strike craft that outmaneuvered larger UCG vessels. Inspired by legacy atmospheric fighter designs and enhanced with cutting-edge spaceflight technology, the Sabre was born out of necessity and fine-tuned through combat during the **Battle of New Tijuana Orbit**, where early prototypes proved devastatingly effective against both pirate raiders and rival faction interceptors.
 
-After significant performance upgrades—including a more powerful shield array and the integration of **ST/Medusa missiles**—the Sabre-class was formally adopted into standard UCG starfighter squadrons and remains in active use today.
+After significant performance upgrades, including a more powerful shield array and the integration of **ST/Medusa missiles**, the Sabre-class was formally adopted into standard UCG starfighter squadrons and remains in active use today.
 
 # Military Significance  
 Despite its small size, the Sabre-class boasts formidable armament with **twin M1024 ASW/AC 30mm ALA Cannons** for close-quarters engagements and **Medusa-class missiles** for long-range strikes. Its **booster-assisted launch system** allows it to rapidly engage or disengage from combat zones, making it ideal for tactical support or quick-response missions.

@@ -1,5 +1,3 @@
-
-
 > [!infobox|right wikipedia]+
 > # The Alfifan Revolutionary Command Authority (ARCA)
 > ![[Flag-Creator.png]]
@@ -16,12 +14,11 @@
 > | ---- | --- |
 > | 2057 (Illegitimate) | Most of Northern Africa | 
 
-
  
 
 
 # Overview
-The **Alfifan Revolutionary Command Authority (ARCA)** is a breakaway militant regime that rose from the ashes of global devastation and political collapse in Sub-Saharan Africa. Formed during a revolt against the UCG, ARCA claims dominion over vast swaths of nuclear wasteland and abandoned cities—territories once left in ruin by the Glassing Campaigns.
+The **Alfifan Revolutionary Command Authority (ARCA)** is a breakaway militant regime that rose from the ashes of global devastation and political collapse in Sub-Saharan Africa. Formed during a revolt against the UCG, ARCA claims dominion over vast swaths of nuclear wasteland and abandoned cities, territories once left in ruin by the Glassing Campaigns.
 
 Their ideology blends brutal militarism with spiritual reverence for command and revolution, governed by a doctrine known as the **Revolutionary Command Doctrine** (RCD). This doctrine declares that justice and rightful leadership arise only through the flames of rebellion and unwavering control.
 

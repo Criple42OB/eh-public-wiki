@@ -39,7 +39,7 @@
 > | 24 Single Occupant Exoatmospheric Insertion Vehicles |—|
 
 # Overview  
-The **Stalwart-class Sub-Fleet** consists of a series of light frigates designed primarily for **planetary defense**, **troop transport**, and **fleet support**. This fleet includes the iconic **UCG Nautilus**, **UCG Basilisk**, **UCG Preator**, **UCG Babylonia**, and the **UCG Pillar of Winter**—each serving as versatile vessels capable of adapting to various combat and logistical roles. Equipped with powerful offensive and defensive systems, these frigates provide essential support to larger fleet formations while also protecting ground forces and facilitating planetary invasions.
+The **Stalwart-class Sub-Fleet** consists of a series of light frigates designed primarily for **planetary defense**, **troop transport**, and **fleet support**. This fleet includes the iconic **UCG Nautilus**, **UCG Basilisk**, **UCG Preator**, **UCG Babylonia**, and the **UCG Pillar of Winter**, each serving as versatile vessels capable of adapting to various combat and logistical roles. Equipped with powerful offensive and defensive systems, these frigates provide essential support to larger fleet formations while also protecting ground forces and facilitating planetary invasions.
 
 The **Stalwart-class** is known for its impressive endurance, as it can operate in hostile environments for extended periods, providing both defense and offensive capabilities. With significant troop and vehicle complement capabilities, these ships are indispensable for large-scale operations.
 

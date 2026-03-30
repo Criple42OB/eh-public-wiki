@@ -38,15 +38,15 @@ Despite its unity and power, cracks are forming. Civil unrest brews in sectors l
 
 # History
 
-The United Coalition Government (UCG) was officially established in **2038**, following the devastation of World War III and the subsequent **Post-Unity Accords**. Originally intended as a collaborative peacekeeping force to guide Earth’s recovery, the UCG quickly evolved into a centralized authoritarian power—prioritizing control, stability, and technological supremacy over national sovereignty.
+The United Coalition Government (UCG) was officially established in **2038**, following the devastation of World War III and the subsequent **Post-Unity Accords**. Originally intended as a collaborative peacekeeping force to guide Earth’s recovery, the UCG quickly evolved into a centralized authoritarian power, prioritizing control, stability, and technological supremacy over national sovereignty.
 
-In the early decades of its existence, the UCG consolidated global power through a mix of political manipulation and brute military force. Resistance was minimal at first, but as the UCG began absorbing sovereign states, unrest emerged. Africa was among the first to suffer under the UCG’s more brutal tactics—leading to the now-infamous **Glassing Runs**, where powerful orbital lasers were used to annihilate large regions deemed “uncooperative.”
+In the early decades of its existence, the UCG consolidated global power through a mix of political manipulation and brute military force. Resistance was minimal at first, but as the UCG began absorbing sovereign states, unrest emerged. Africa was among the first to suffer under the UCG’s more brutal tactics, leading to the now-infamous **Glassing Runs**, where powerful orbital lasers were used to annihilate large regions deemed “uncooperative.”
 
 With Earth under its control, the UCG expanded outward. Colonies on the Moon, Mars, and distant star systems soon followed. Through the combined power of AI, orbital defenses, and an overwhelming navy, the UCG became the most dominant force in known human space.
 
 However, discontent grew beneath the surface. In the early 2060s, revolts erupted across **Europe**, with nations such as **Germany**, **France**, and **Poland** rebelling against the UCG’s oppressive regime. **China** and **Russia** soon declared independence, forming sovereign states. These fractures marked the beginning of the **Coalition’s Decline Era**.
 
-Though still powerful, the UCG now faces mounting challenges from both internal resistance and external enemies—its once-unquestioned dominance slowly unraveling.
+Though still powerful, the UCG now faces mounting challenges from both internal resistance and external enemies, its once-unquestioned dominance slowly unraveling.
 
 ## Key Figures
 - **José**: The manipulative, charismatic leader and public face of the UCG.

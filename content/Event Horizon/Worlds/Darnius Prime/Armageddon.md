@@ -24,14 +24,14 @@
 As the capital of the Dominion, it houses not only demonic populations but endless soul forges, necrotic spires, and the **Council Citadel**, where the Infernal Council rules in ever-shifting power plays.
 
 # History  
-Once a lifeless volcanic rock in the Darnius Prime system, Armageddon was claimed by the demons after their banishment from Earth’s core. Through arcane terraforming and blood rituals, they reshaped it into a suitable dominion—hostile to mortals, yet perfectly suited to their infernal biology.
+Once a lifeless volcanic rock in the Darnius Prime system, Armageddon was claimed by the demons after their banishment from Earth’s core. Through arcane terraforming and blood rituals, they reshaped it into a suitable dominion, hostile to mortals, yet perfectly suited to their infernal biology.
 
 Its history is one of violence and prophecy. Following the discovery of **God’s Virus** and the rise of the **Necromorph threat**, Armageddon became a sanctuary-turned-fortress. From here, the first portals were carved on Venus, with echoes of their energy resonating across the galactic web.
 
-During the **First Galactic War**, it was besieged by angelic crusades, but never fell. Its surface remains scarred by celestial bombardments—now known as the **Fields of Ruin**.
+During the **First Galactic War**, it was besieged by angelic crusades, but never fell. Its surface remains scarred by celestial bombardments, now known as the **Fields of Ruin**.
 
 # Culture  
-Demonic society thrives in ritual, dominance, and the cyclical pursuit of greater suffering. Every caste, from the flame-scarred **Ashkin** to the manipulative **Whisperlords**, plays a part in the Dominion’s grand orchestration of torment. Culture here is less about peace and more about power through agony—seen as a divine state.
+Demonic society thrives in ritual, dominance, and the cyclical pursuit of greater suffering. Every caste, from the flame-scarred **Ashkin** to the manipulative **Whisperlords**, plays a part in the Dominion’s grand orchestration of torment. Culture here is less about peace and more about power through agony, seen as a divine state.
 
 Demonic artisans craft weapons from the bones of fallen enemies, while singers weave screams into choral dirges that echo across the canyons of Vulgraeth.
 
