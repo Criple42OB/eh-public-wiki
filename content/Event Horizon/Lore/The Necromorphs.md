@@ -10,7 +10,7 @@ Necromorphs are not merely killers, they are *recyclers* of life. When they kill
 The Necromorphs communicate through a collective hivemind, which allows them to coordinate their attacks and spread the virus. Though they can survive in hostile environments such as space or harsh planets, they thrive in organic, populated spaces where they can propagate quickly. Necromorphs are extremely resilient and can adapt to most environments, making them a terrifying threat across the galaxy.
 
 ## Influence
-- **Earth**: Earth's Necromorph-infected zones are heavily quarantined and constantly monitored by the United Coalition Against Tyranny (UCT), who deploy orbital strikes to prevent any further spread. Not many cases of spread are noted, for the most part it is eradicated on earth, and surrounding solar systems and galaxies.
+- **Earth**: Earth's Necromorph-infected zones are heavily quarantined and constantly monitored by the UCG, who deploy orbital strikes to prevent any further spread. Not many cases of spread are noted, for the most part it is eradicated on earth, and surrounding solar systems and galaxies.
 - **Armageddon**: The demon-controlled planet of Armageddon serves as both a prison and a breeding ground for the Necromorphs. The Obsidian Dominion uses them as weapons, either as mindless soldiers or to terrorize enemies.
 - **The Eight Seals**: The Necromorphs are directly tied to Seal IV – *The Dead Walk*. This seal marks the resurgence of the Necromorphs as a major galactic force, potentially triggering the final steps in the galactic apocalypse.
 
