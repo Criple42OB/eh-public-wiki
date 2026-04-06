@@ -328,7 +328,7 @@ The following document outlines the primary infantry weapons utilized by militar
 
 ## Notes on Customization Philosophy
 
-The UCG military emphasizes **modular design** allowing rapid reconfiguration for specific missions. No two soldiers carry identical loadouts—personalization is encouraged based on:
+The UCG military emphasizes **modular design** allowing rapid reconfiguration for specific missions. No two soldiers carry identical loadouts, personalization is encouraged based on:
 
 1. **Combat Role** - Snipers carry long-range options; support specialists carry heavy suppressive fire
 2. **Mission Profile** - Infiltration emphasizes suppressors; assault operations favor extended magazines and optics
