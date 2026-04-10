@@ -1,5 +1,6 @@
 > [!infobox|right wikipedia]+
 > # The Fourth Reich
+> ![[Flag-FourthReich.png]]  
 > 
 > | Government Type | Capital |
 > | ---- | --- |
@@ -42,6 +43,8 @@ The **Reichswehr** is a massive, well-organized military force equipped with ind
 
 # Relations
 - **UCG**: Mortal enemy; the Reich views the UCG as degenerate globalism
+- **The Romanov Restoration**: Regional rival competing for European dominance
+- **The New Maoist Movement**: Ideological opposition despite distant territories
 
 # Legacy
 The Fourth Reich stands as a stark reminder of history's cyclical nature, that in ages of chaos and collapse, humanity may regress toward authoritarianism and conquest rather than progress forward.
