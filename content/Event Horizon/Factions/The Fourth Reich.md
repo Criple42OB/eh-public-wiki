@@ -1,0 +1,47 @@
+> [!infobox|right wikipedia]+
+> # The Fourth Reich
+> 
+> | Government Type | Capital |
+> | ---- | --- |
+> | Fascist Totalitarian Dictatorship | Berlin |
+> 
+> | Official Language | Population |
+> | ---- | --- |
+> | German | ~175 Million |
+> 
+> | Formation | Territory |
+> | ---- | --- |
+> | 2069 (Declared) | Germany, Austria, Czechia, Slovakia, Poland, Italy |
+
+# Overview
+The **Fourth Reich** emerged from the fires of revolutionary chaos and UCG suppression in Central and Eastern Europe. Rising during the unrest that followed the Alfifa attacks on the eastern coast of America and the UCG's brutal responses, the Fourth Reich declared independence across six nations, unifying them under a fascist totalitarian ideology rooted in historical conquest and ethnic nationalism.
+
+The movement channels deep historical grievances and memories of a long-forgotten past, combining militaristic authoritarianism with promises of strength, unity, and restoration of "natural" hierarchies. It explicitly rejects democracy, globalism, and the UCG's internationalist framework.
+
+# Political Structure
+- **Supreme Führer**: Astrid Kessler
+- **The High Command**: Military junta and party elite
+- **Gestapo-style Secret Police**: Internal security and ideological enforcement
+- **Regional Gauleiters**: Military governors of each occupied territory
+
+# Key Events
+- **2054-2068**: Multiple extremist groups begin arming and rioting across Europe
+- **March 2069**: Unrest in Germany, Austria, Czechia, Slovakia, Poland, and Italy reaches critical mass
+- **April 2069**: Fourth Reich declares independence and consolidates control
+- **April 2069**: Rapid militarization and territorial consolidation
+- **April 2069**: Toppiling and full take over of Paris, pushing into both Eastern Europe and France.
+
+# Culture & Society
+- **Ideology**: Ethnic nationalism, biological determinism, total state control
+- **Symbolism**: Historical fascist imagery, militaristic regalia, symbols of conquest
+- **Propaganda**: Glorifies strength, hierarchy, and the supremacy of the Reich
+- **Education**: Indoctrination into fascist ideology, military training, and ideological purity
+
+# Military
+The **Reichswehr** is a massive, well-organized military force equipped with industrial-age technology and fueled by fanatical ideology. Rapidly expanding, it represents one of the most organized military powers in post-UCG Europe, leveraging existing industrial infrastructure across six nations.
+
+# Relations
+- **UCG**: Mortal enemy; the Reich views the UCG as degenerate globalism
+
+# Legacy
+The Fourth Reich stands as a stark reminder of history's cyclical nature, that in ages of chaos and collapse, humanity may regress toward authoritarianism and conquest rather than progress forward.
