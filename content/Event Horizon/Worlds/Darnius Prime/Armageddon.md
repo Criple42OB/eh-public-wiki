@@ -16,7 +16,7 @@
 >  
 > | Known Moons | Factions Present |  
 > |--------------|-----------------|  
-> | 3 (Avernus, Belghor, Ritesh) | Obsidian Dominion, Ranks of Armageddon |
+> | 4 (Avernus, Belghor, Ritesh, Tartarus) | Obsidian Dominion, Ranks of Armageddon |
 
 # Overview  
 **Armageddon** is the molten throneworld of the **Obsidian Dominion**, a planet that churns with brimstone tides, obsidian mountain ranges, and ancient demonic architecture carved into the world’s bleeding crust. Magma rivers divide fractured continents, while infernal spires pierce the sulfur-choked sky. It is a world where survival is worship, and pain is currency.
