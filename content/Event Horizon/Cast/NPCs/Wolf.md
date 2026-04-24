@@ -33,4 +33,4 @@ A weathered veteran of the UCG starship navy dating back to 2044, Wolf has spent
 - Portable diagnostic scanner for armor systems
 - Personal drone for reconnaissance
 
-**Note:** British.
+**Note:** British. Probably solid fucking snake.

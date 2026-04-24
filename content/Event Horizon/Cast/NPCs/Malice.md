@@ -4,6 +4,8 @@ Identity classified. Records sealed. Known only by callsign "Malice," this opera
 
 Malice is never seen without his balaclava, a deliberate erasure of identity, a visual statement that the man wearing it is nothing but purpose and execution. Those who've served under him speak of a commanding presence that requires no raised voice, no gestures; a simple look communicates entire operational parameters. His mask has become legend among UCG special operations: when Red Sun appears, objectives are achieved with surgical precision.
 
+Filthy rich seemingly, Making more than superiors in many cases. A figure he can not mention. Lives in a beautiful mansion on a hill in Finland overlooking a nearby city. Owns his own private "escalade" of starships. Owns the fucking Holy Sceptre he got off Gabriel?!?! Countless weapons caches around his house.
+
 **Background:**
 - Origin and early history classified/redacted
 - Recruited from New London to 55th SAS regiment (stationed in Old Hampshire)
