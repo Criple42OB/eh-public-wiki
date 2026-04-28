@@ -1,4 +1,4 @@
-**Fletch "Cripple": Angel - Demihuman (catgirl) hybrid, Colonel**
+**Fletch "Cripple": Angel - Demihuman (catgirl) hybrid, Fleet Admiral**
 
 Raised in the underbelly of a UCG space station where demihuman hybrids were treated as second-class residents, Fletch learned early that survival meant being better, faster, and more ruthless than everyone else. She clawed her way into the military academies through sheer determination, escaping a life of exploitation. Twelve years in the UCG starship navy hardened her further, a pivotal operation went catastrophically wrong, half the squads during the assault didn't walk out alive, and she carried those ghosts with her. But she also learned something invaluable: the only people worth trusting are those who've bled beside you. A demeanor forged in violence and loss. Now she commands a squad of survivors and misfits, because she knows exactly what it takes to endure.
 

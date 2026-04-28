@@ -4,8 +4,9 @@ Nikolai Korsakov earned his command position through decades of disciplined nava
 
 **Fleet Information:**
 - Admiral of UCG Fleet A-26 (3rd Capital Fleet)
-- Capital Ship: UCG's Geber der Angst (Keyship-class Capital Ship)
-- Fleet Composition: ~90 ships including Strident-class Heavy Frigates and Stalwart-class sub-fleets
+- Capital Ship: UCGS Geber der Angst - Supercarrier-class Flagship
+- Fleet Composition: ~90 ships including Anlace- and Strident-class sub-fleets
+- A personal transporter used by himself, Black with gold accents, built-in humidor and wine fridge. Speakers by JBL and Hermann Miller seats. One of the most comfortable in the universe.
 - Known for aggressive tactical doctrine and high casualty tolerance in pursuit of objectives
 - Task Force designation "Red-Sun" led by Malice attached to fleet at all times.
 

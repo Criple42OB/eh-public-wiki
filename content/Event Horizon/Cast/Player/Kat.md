@@ -1,4 +1,4 @@
-**Katherine "Kat" Laswell: Human, E4 Specialist.**
+**Katherine "Kat" Laswell: Human, 2nd Lieutenant.**
 
 Born an orphan on September 16th, 2046, she was known for running errands, but got recruited due to her scouting abilities. This, combined with her resourcefulness and improvising capabilities gained her a spot in Fletch's squad. Green eyes with slightly tanned skin, brown hair that fades to a dark blue. Jumpy, anxious but can hold herself down when needed.
 
