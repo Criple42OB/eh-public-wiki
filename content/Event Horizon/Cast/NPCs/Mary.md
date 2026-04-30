@@ -1,4 +1,4 @@
-**Mary "7": DemiDemon (SuccuCatgirl), Master Programmer - Sergeant**
+**Mary "7": DemiDemon (SuccuCatgirl), 26, Master Programmer - Sergeant**
 
 Born into a nightmare, Mary spent her formative years in a classified experimental facility where scientists attempted to unlock the secrets of demonic hybridization. The experiments pushed her to the brink of annihilation, but she survived. Upon the program's conclusion, she was adopted into a high-to-medium class family who raised her with unexpected care and stability. In her teens, Mary discovered her true passion: computers. The precision, logic, and control of coding provided the antidote to her traumatic childhood. Now, as a programmer in Fletch's squad, she's become the 2nd best programmer in the local galaxy cluster (top 5 in universe), capable of hacking enemy systems, maintaining squad infrastructure, and providing critical technological support during operations. Her perverse sense of humor masks a brilliant, if morally questionable, tactical mind.
 

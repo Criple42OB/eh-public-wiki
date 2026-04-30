@@ -1,4 +1,4 @@
-**General Black Shepherd: Male Human, General of the UCG Military**
+**General Black Shepherd: Male Human, 50, General of the UCG Military**
 
 A towering figure in both rank and physical presence, General Black Shepherd commands the UCG Military with an iron fist wrapped in patriotic rhetoric. Fanatically devoted to Earth and the UCG, Shepherd presents himself as the ultimate patriot, a warrior-leader willing to make the hard choices others lack the spine to make. Yet beneath his unwavering commitment to "victory at any cost" lies a military mind that routinely considers solutions of such apocalyptic scale that subordinates are forced to question whether the cure might be deadlier than the disease.
 

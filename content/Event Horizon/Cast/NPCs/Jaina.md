@@ -1,4 +1,4 @@
-**Jaina "Heavy": Female Human-(non presenting)Demon Hybrid, Heavy Weapons Specialist - Staff Sergeant**
+**Jaina "Heavy": Female Human-(non presenting)Demon Hybrid, 40, Heavy Weapons Specialist - Staff Sergeant**
 
 Abandoned by her father at a young age due to his illicit affair with her mother, Jaina's childhood was a crucible of abandonment and anger. Marked from birth by her demonic heritage, she was never accepted by either side of her family. This rejection forged her into a weapon, a short-fused, perpetually angry soldier whose aggression on the battlefield is legendary. Heavy weapons are her domain, and she wields them with a ferocity that matches her barely-contained rage. Recruited into Fletch's squad, she found a unit that didn't judge her hybrid nature, though her volatile temperament remains a challenge. In combat, that fury becomes her greatest asset.
 

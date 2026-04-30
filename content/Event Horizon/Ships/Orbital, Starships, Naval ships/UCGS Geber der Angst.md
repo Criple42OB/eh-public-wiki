@@ -1,5 +1,5 @@
 > [!infobox|right wikipedia]
-> # UCGS Geber der Angst
+> # RMRS Krasnaya Sila
 > ![[Infinity.png]]
 > 
 > | Class | Role(s) |
@@ -40,7 +40,7 @@
 
 # Overview
 
-The **UCGS Infinity** (officially designated INF-101) is a Supercarrier and one of the most formidable capital ships ever constructed by human hands. Manufactured at the Special Assembly Plant Nardia, the Infinity represents the apex of UCG naval engineering and technological achievement. Currently serving as the flagship of **Admiral Niko's Fleet A-26** under the designation **Geber der Angst** (Giver of Fear), the Infinity commands respect and fear in equal measure across the galaxy.
+The **UCGS Infinity** (officially designated INF-101) is a Supercarrier and one of the most formidable capital ships ever constructed by human hands. Manufactured at the Special Assembly Plant Nardia, the Infinity represents the apex of UCG naval engineering and technological achievement. Currently serving as the flagship of **Admiral Niko's Fleet A-26** under the designation **Krasnaya Sila** (Red Power), the Infinity commands respect and fear in equal measure across the galaxy. Commandeered by Niko when he defected to the Romanov Restoration.
 
 The ship's sheer scale, nearly 5.7 kilometers in length, dwarfs most other capital vessels. Its devastating firepower, advanced sensor suite, and nearly unlimited operational capacity make it the centerpiece of modern naval warfare. The Infinity serves as both a command hub and an independent combat platform capable of projecting military power across entire star systems.
 
@@ -120,6 +120,6 @@ The **UCGS Infinity** was acquired by Admiral Niko of the UCG as his flagship ve
 
 ## Command Under Niko
 
-Under Admiral Niko's aggressive tactical doctrine, the Infinity has become a symbol of UCG military might and dominance. Operating at the center of Fleet A-26's ~90 vessels, the supercarrier provides unmatched firepower support, command and control capabilities, and logistical support for sustained operations across multiple star systems. Niko's reputation for bold tactics combined with the Infinity's overwhelming capabilities has made the Geber der Angst both feared and respected throughout the galaxy.
+Under Admiral Niko's aggressive tactical doctrine, the Infinity was once a symbol of UCG military might and dominance. Operating at the center of Fleet A-26's ~90 vessels, the supercarrier provides unmatched firepower support, command and control capabilities, and logistical support for sustained operations across multiple star systems. Niko's reputation for bold tactics combined with the Infinity's overwhelming capabilities has made the Geber der Angst both feared and respected throughout the galaxy.
 
 The ship's presence alone has proven sufficient to deter aggression from multiple hostile factions, though its combat record demonstrates that this deterrent backing is grounded in lethal reality. The Infinity's operational tempo and casualty-inducing effectiveness have made it the centerpiece of UCG strategic thinking regarding force projection and military dominance.

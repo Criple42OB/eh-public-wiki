@@ -1,4 +1,4 @@
-**[REDACTED] "Malice": Male Human(?), Operative - Master Sergeant**
+**[REDACTED] "Malice": Male Human(?), 38, Operative - Master Sergeant**
 
 Identity classified. Records sealed. Known only by callsign "Malice," this operative is the epitome of disciplined lethality. Recruited into the UCG's elite 55th SAS regiment from the streets of London, he climbed ranks through unnaturally sharp combat instincts and an almost prescient understanding of tactical situations during Intergalactic War One. Relocated to Fleet Admiral Niko's command following his exceptional performance, Malice quickly became the nucleus of an elite task force. Now he commands Red Sun, an operationally cohesive unit of perfectly synchronized soldiers who move as a single organism.
 
@@ -6,18 +6,21 @@ Malice is never seen without his balaclava, a deliberate erasure of identity, a 
 
 Filthy rich seemingly, Making more than superiors in many cases. A figure he can not mention. Lives in a beautiful mansion on a hill in Finland overlooking a nearby city. Owns his own private "escalade" of starships. Owns the fucking Holy Sceptre he got off Gabriel?!?! Countless weapons caches around his house.
 
+Before the freedom movements, He commanded the 32nd Special Operations Task Force designation "Red-Sun". However, Due to his suspected (and legitimate) connection to Ernesto, His squadmates (including his Brother) were found dead in the Vail correctional facility. Only 9 bodies were found however, and he has hope the other 2 are still out there.
+
 **Background:**
 - Origin and early history classified/redacted
 - Recruited from New London to 55th SAS regiment (stationed in Old Hampshire)
 - Demonstrated exceptional combat capability during Intergalactic War One (IWI)
 - Rapidly advanced through ranks due to tactical excellence
 - Transferred to Admiral Niko's 3rd Capital Fleet following distinguished service record
-- Established and now commands Red Sun task force
-- Currently aboard the UCG Gerber Der Angst
+- Established and commanded Red Sun task force
+- Currently aboard the Guardian of Angels
+- Attached to Epsilon Star awaiting further assignment. 
 
 **Position:**
-- Master Sergeant and Task Force Commander
-- Commander of Red Sun operational unit
+- Master Sergeant and Ex-Task Force Commander
+- Ex-Commander of Red Sun operational unit
 - Elite special operations specialist
 
 **Armor:**

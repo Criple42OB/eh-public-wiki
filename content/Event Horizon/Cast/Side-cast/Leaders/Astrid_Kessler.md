@@ -1,4 +1,4 @@
-**Astrid Kessler - Führer of The Fourth Reich**
+**Astrid Kessler: Human, 36, Führer of The Fourth Reich**
 
 A commanding militaristic figure and absolute leader of The Fourth Reich, Astrid Kessler commands absolute loyalty through a combination of strategic brilliance, ruthless determination, and unshakeable authority. With piercing eyes, jet-black short hair, and an icy demeanor, she embodies the iron will necessary to lead a authoritarian regime dedicated to conquest and ideological supremacy. Loosely drawn from idealized historical military aesthetics, her presence itself commands obedience. She has elevated herself to a near-mythological status among her followers, viewing herself as both the architect of a new world order and the will of destiny incarnate.
 

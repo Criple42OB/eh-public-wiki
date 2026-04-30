@@ -1,5 +1,5 @@
 > [!infobox|right wikipedia]
-> # UCGS Guardian of Angels (GOA)
+> # Guardian of Angels (GOA)
 > ![[Future Ships-1774380573272.webp|1001x563]]
 >
 > | Class | Role(s) |
@@ -45,6 +45,8 @@
 The **UCG Guardian of Angels (GOA)** is a **Heavy Assault Carrier** and flagship of the UCG's specialized deep-space exploration and tactical response force. Originally commissioned as part of **Fleet A-27**, the Guardian of Angels represents a significant advancement in UCG capital ship design, combining the defensive capabilities of a heavy cruiser with the operational flexibility of a fleet carrier. 
 
 The ship is equipped with formidable offensive armament centered around dual MAC cannons, extensive missile batteries for mid-range engagement, and redundant point-defense systems. Its three hangar bays support extended air operations, making it capable of maintaining air superiority over vast areas of operation. The Guardian of Angels serves as both a command center and a self-sufficient combat platform, equipped with the latest UCG technology and systems.
+
+The ship is now considered *rogue* as Fletch and the rest of the fleet commandeered  it.
 
 # Experimental Systems
 

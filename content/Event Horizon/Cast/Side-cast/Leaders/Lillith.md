@@ -1,4 +1,4 @@
-**Lillith: Female Demon, Queen of the Obsidian Dominion - Sovereign Paramount**
+**Lillith: Female Demon, Over 1000, Queen of the Obsidian Dominion - Sovereign Paramount**
 
 Among the legions of hell, few entities command respect and terror in equal measure as Lillith, the Infernal Queen. She rules the Obsidian Dominion not through brute force alone, but through cunning, ancient power, and an understanding of demonic politics that spans millennia. Risen from the Infernal Council to supreme authority, Lillith navigates the treacherous landscape of demonic feudalism while maintaining absolute control over her fractious domain. Her dark sorcery rivals that of the eldest archdemons, and her strategic mind has guided the Dominion through wars, ceasefires, and prophecies that have shaped galactic history. She has seen empires rise and burn, and her throne sits upon the ashes of those who dared challenge her rule.
 

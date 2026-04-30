@@ -1,4 +1,4 @@
-**Thorgun "Ironforge" Bronzebeard: Male Dwarf, High Thain of Scrashandif - Sovereign**
+**Thorgun "Ironforge" Bronzebeard: Male Dwarf, 287, High Thain of Scrashandif - Sovereign**
 
 At 287 years old, Thorgun Bronzebeard has witnessed the rise and fall of empires. As High Thain of the combined dwarven clans and keeper of the Codex Eternus, the sacred repository of dwarven law and history, he carries the weight of three centuries of conflict and tradition. A veteran of the legendary three-hundred year war with the British Empire, Thorgun's stoicism is legendary; his pragmatism absolute. He rarely leaves Karak-Azul, his ancient stronghold, but his voice commands respect across every dwarven settlement in known space. His beards are braided with gold and silver threads, each braid commemorating a major military victory, and his frame is encased in armor forged from mithril-infused steel inscribed with the lineages of all seven great dwarven clans.
 
