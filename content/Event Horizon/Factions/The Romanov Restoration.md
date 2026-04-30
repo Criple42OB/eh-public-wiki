@@ -1,6 +1,6 @@
 > [!infobox|right wikipedia]+
 > # The Romanov Restoration
-> ![[romanovflag.png.png]]  
+> ![[romanovflag.png]]  
 > 
 > | Government Type | Capital |
 > | ---- | --- |
@@ -17,7 +17,7 @@
 # Overview
 The **Romanov Restoration** emerged from the ashes of UCG rule in Russia during the global wave of independence movements in the 2060s. Spearheaded by a coalition of nationalist militaries and traditionalist politicians, the movement seeks to resurrect the imperial legacy of the Romanov dynasty, positioning itself as a counterforce to both globalist internationalism and the chaos of revolution.
 
-The ideology centers on **Tsarist Nationalism**—a doctrine emphasizing autocratic rule, Russian Orthodox spiritual renewal, territorial restoration, and the supremacy of Russian civilization. The movement leverages historical nostalgia and deep-rooted Orthodox Christianity to galvanize support among rural populations devastated by UCG policies.
+The ideology centers on **Tsarist Nationalism**, a doctrine emphasizing autocratic rule, Russian Orthodox spiritual renewal, territorial restoration, and the supremacy of Russian civilization. The movement leverages historical nostalgia and deep-rooted Orthodox Christianity to galvanize support among rural populations devastated by UCG policies.
 
 # Political Structure
 - **Supreme Leader**: Tsar Alexander (Self-declared Tsar)
@@ -27,7 +27,7 @@ The ideology centers on **Tsarist Nationalism**—a doctrine emphasizing autocra
 # Key Events
 - **2069**: Mass riots in St. Petersburg spark the independence movement
 - **2069**: Tsar Alexander formally declares the Romanov Restoration
-- **2069**: UCG forces withdraw from Russian territory following diplomatic pressure
+- **2069**: UCG forces withdraw from Russian territory following intense ODST combat
 
 # Culture & Society
 - **Religion**: Russian Orthodox Church is elevated to state institution
@@ -36,7 +36,8 @@ The ideology centers on **Tsarist Nationalism**—a doctrine emphasizing autocra
 - **Education**: Focuses on Russian history, Orthodox doctrine, and military discipline
 
 # Military
-The **Russian Imperial Army (RIA)** is a rapidly modernizing force drawing from ex-UCG defectors and conscripted civilians. While less technologically advanced than other powers, the RIA compensates with deep territorial knowledge, cohesion among nationalist elements, and a fierce dedication to sovereign independence.
+The **Russian Imperial Army (RIA)** is a rapidly modernizing force drawing from ex-UCG defectors and conscripted civilians. The RIA is routed with deep territorial knowledge, cohesion among nationalist elements, and a fierce dedication to sovereign independence.
+The **RIA ODST Corp** was quickly recognized as one of the most fierce fighting legions. Slaughtering UCG forces with ease.
 
 # Relations
 - **UCG**: Former oppressor; relations remain tense
