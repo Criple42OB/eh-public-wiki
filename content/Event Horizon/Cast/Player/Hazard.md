@@ -1,4 +1,4 @@
-**Sydney "Hazard" Navarro: Angel - Human hybrid, Field Mechanic (2nd Lieutenant)**
+**Sydney "Hazard" Navarro: Angel - Human hybrid, 21, Field Mechanic (2nd Lieutenant)**
 
 Known troublemaker that's had constant issues with the local law, many such cases being due to stealing and stripping vehicles, their latest "achievement" landing them in an Al-Fifa jail, only to be freed by Fletch and recruited onto her squad.  Blue eyes with black hair and tan skin, prefers to not have their wings out. Troublemaker, hates to be bored but won't hold grudges.
 

@@ -8,7 +8,7 @@
 > 
 > | High Thain | Population |  
 > | ---- | ---- |  
-> | Thorgun Ironforge | Estimated 1.8 Billion |  
+> | Mango Ironember | Estimated 1.8 Billion |  
 > 
 > | Military | Known Conflict |  
 > | ---- | ---- |  
