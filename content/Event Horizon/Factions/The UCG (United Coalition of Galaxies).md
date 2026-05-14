@@ -11,7 +11,7 @@
 > 
 > | Official Language | Population |
 > | ---- | --- |
-> | English (Primary), Spanish, Mandarin, Hindi (Recognized) | ~6.3 Billion (Earth) / ~14.7 Billion (Total) |
+> | English (Primary), Spanish, Mandarin, Hindi (Recognized) | ~6.3 Billion (Earth) / ~32.8 Billion (Total) |
 > 
 > | Formation | Territory |
 > | ---- | --- |
