@@ -1,6 +1,6 @@
 **Lex "Shadow" Woode: Demon/Human Hybrid, 24, 18B Major, Epsilon Star Lead**
 
-         *“We’ll handle it, we always do.” - Lex*
+#         *“We’ll handle it, we always do.” - Lex*
 
 Lex Woode is an ex UCG major and current team leader for the highly elite Epsilon Star squad. He is a very charismatic, kind and capable leader who is seen fondly by his squadmates. He is driven by his need to protect others and not let what happened to his last squad in the Tijuana incident happen again. 
 
