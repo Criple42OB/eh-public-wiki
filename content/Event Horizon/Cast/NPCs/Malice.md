@@ -6,7 +6,7 @@ Malice is never seen without his balaclava, a deliberate erasure of identity, a 
 
 Filthy rich seemingly, Making more than superiors in many cases. A figure he can not mention. Lives in a beautiful mansion on a hill in Finland overlooking a nearby city. Owns his own private "escalade" of starships. Owns the fucking Holy Sceptre he got off Gabriel?!?! Countless weapons caches around his house.
 
-Before the freedom movements, He commanded the 32nd Special Operations Task Force designation "Red-Sun". However, Due to his suspected (and legitimate) connection to Ernesto, His squadmates (including his Brother) were found dead in the Vail correctional facility. Only 9 bodies were found however, and he has hope the other 2 are still out there.
+Before the freedom movements, He commanded the 32nd Special Operations Task Force designation "Red-Sun". However, Due to his suspected (and legitimate) connection to Ernesto, His squadmates (including his Brother) were found dead in the Vail correctional facility. Only 9 bodies were found however, the other 2 in hiding.
 
 **Background:**
 - Origin and early history classified/redacted
