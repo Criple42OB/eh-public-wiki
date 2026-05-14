@@ -10,7 +10,7 @@ She gained the callsign "Cripple" after she broke her leg in the midst of battle
 
 **Personality:**
 
-Fletch is a seasoned military leader, who above all else puts her crew before all outsiders. She has is extremely close to her ex-squad, Epsilon Star, whom she once led before her promotion to Fleet Admiral.
+Fletch is a seasoned military leader, who above all else puts her crew before all outsiders. She is extremely close to her ex-squad, Epsilon Star, whom she once led before her promotion to Fleet Admiral.
 She appears stoic and serious, though in the heat of battle she may appear reckless in the sense of protecting others before her self.
 She keeps most personal details about herself inside, not opening up to many people to keep up with the "tough girl" attitude.
 
