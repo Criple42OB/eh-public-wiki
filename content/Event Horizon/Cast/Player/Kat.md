@@ -15,4 +15,8 @@ Born an orphan on September 16th, 2046, she was known for running errands, but g
 - Anima Works MK5 (Standard.)
 
 **Special Equipment:**
-- H.I.V.E Launcher, Ballistic Knife, Active Camouflage.    
+- H.I.V.E Launcher
+- Active Camouflage Mk1
+- Ballistic knife
+- Experimental runny stuff™ enhancements allowing faster movement speeds
+- Experimental Static Charge Release System "Lightning storm" allowing the user to collect and shoot electricity out of their hands after a charging period

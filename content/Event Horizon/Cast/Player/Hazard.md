@@ -7,9 +7,11 @@ Known troublemaker that's had constant issues with the local law, many such case
 
 **Primary Weapon:**
 - Modified NT-07 Anti Material Sniper Rifle (8x scope, thermal capabilities, extended mag, flash hider, Depleted Uranium Rounds and Explosive rounds)
+- Two Exteria PD338 Sub-machine guns with extended magazines located on their hips
 
 **Sidearm:**
 - Modified A.J.M. 9 (Burst fire, muzzle break, extended magazine, FMJ rounds)
 
 **Special Equipment:**
 - Modified Plasma Cutter "The Dominator" (Laser Weapon Battery, Power intensity knob)
+- Extendable waist mounted robotic arms
