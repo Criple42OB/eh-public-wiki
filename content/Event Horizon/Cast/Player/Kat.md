@@ -20,3 +20,4 @@ Born an orphan on September 16th, 2046, she was known for running errands, but g
 - Ballistic knife
 - Experimental runny stuff™ enhancements allowing faster movement speeds
 - Experimental Static Charge Release System "Lightning storm" allowing the user to collect and shoot electricity out of their hands after a charging period
+- Dimensional Phase Core: Allows the user to phase through objects
