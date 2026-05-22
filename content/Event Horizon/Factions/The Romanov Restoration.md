@@ -8,7 +8,7 @@
 > 
 > | Official Language | Population |
 > | ---- | --- |
-> | Russian | ~115 Million |
+> | Russian | ~230 Million |
 > 
 > | Formation | Territory |
 > | ---- | --- |

@@ -8,7 +8,7 @@
 > 
 > | Official Language | Population |
 > | ---- | --- |
-> | Spanish, English, Portuguese | 431 million |
+> | Spanish, English, Portuguese | ~530 million |
 > 
 > | Formation | Territory |
 > | ---- | --- |

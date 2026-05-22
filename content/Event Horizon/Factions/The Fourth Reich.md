@@ -8,7 +8,7 @@
 > 
 > | Official Language | Population |
 > | ---- | --- |
-> | German | ~175 Million |
+> | German | ~293 Million |
 > 
 > | Formation | Territory |
 > | ---- | --- |
@@ -31,6 +31,7 @@ The movement channels deep historical grievances and memories of a long-forgotte
 - **April 2069**: Fourth Reich declares independence and consolidates control
 - **April 2069**: Rapid militarization and territorial consolidation
 - **April 2069**: Toppiling and full take over of Paris, pushing into both Eastern Europe and France.
+- **June 2069**: Majority control of Europe established
 
 # Culture & Society
 - **Ideology**: Ethnic nationalism, biological determinism, total state control
@@ -40,6 +41,7 @@ The movement channels deep historical grievances and memories of a long-forgotte
 
 # Military
 The **Reichswehr** is a massive, well-organized military force equipped with industrial-age technology and fueled by fanatical ideology. Rapidly expanding, it represents one of the most organized military powers in post-UCG Europe, leveraging existing industrial infrastructure across six nations.
+The **Kolossaler Titan Korps** were established in May 2069, Rapidly deployed to Norway where they assisted in the storm of the Nordics. The Kolossaler Titan's are huge versions of Mary's titan design, Scaling upwards of 4 stories. 
 
 # Relations
 - **UCG**: Mortal enemy; the Reich views the UCG as degenerate globalism

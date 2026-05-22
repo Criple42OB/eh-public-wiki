@@ -8,7 +8,7 @@
  >
  >| Official Language | Population |
  >| ---- | --- |
-> | Arabic, English, Spanish | ~86 Million | 
+> | Arabic, English, Spanish | ~432 Million | 
 > 
 > | Formation | Territory |
 > | ---- | --- |
@@ -31,6 +31,7 @@ Their ideology blends brutal militarism with spiritual reverence for command and
 - **2057**: ARCA declared independence during the Abuja uprising.
 - **2057–2060**: Engaged in sporadic warfare with UCG outposts in North Africa and the Mediterranean.
 - **2065**: ARCA agents suspected of sabotaging UCG defense satellites.
+- **2069**: ARCA established full control of Africa.
 
 # Culture & Society
 - **Education:** Focused on military strategy, survival, and loyalty
@@ -42,7 +43,5 @@ ARCA fields the **Alfifan Revolutionary Armed Corps (ARAC)**, a vast and zealous
 
 # Relations
 - **UCG**: Declared enemy; ARCA views the UCG as a corrupt relic of globalist tyranny.
-- **The Seraphic Concord**: 
-- **The Obsidian Dominion**:
 # Legacy
 ARCA's rise signaled a shift in global power away from UCG supremacy, with their revolution sparking a wave of unrest across Europe and Asia. Though often labeled as extremists, many civilians see them as liberators in regions devastated by war and neglect.

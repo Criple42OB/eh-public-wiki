@@ -8,7 +8,7 @@
 > 
 > | Official Language | Population |
 > | ---- | --- |
-> | Mandarin Chinese | ~1.3 Billion |
+> | Mandarin Chinese | ~1.8 Billion |
 > 
 > | Formation | Territory |
 > | ---- | --- |
