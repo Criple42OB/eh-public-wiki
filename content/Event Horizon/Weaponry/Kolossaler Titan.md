@@ -1,6 +1,6 @@
 > [!infobox|right wikipedia]+
 > # Kolossaler Titan
-> ![[Epoch-class-Fleet.png]]  
+> ![[kolossalertitan.png]]  
 > 
 > | Classification | Role(s) |
 > | ---- | --- |
