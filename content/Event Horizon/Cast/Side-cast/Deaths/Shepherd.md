@@ -1,10 +1,10 @@
 **General Black Shepherd: Male Human, 50, Ex-General of the UCG Military**
 
+**Assumed KIA - Executed by Wolf**
+
 A towering figure in both rank and physical presence, General Black Shepherd commands the UCG Military with an iron fist wrapped in patriotic rhetoric. Fanatically devoted to Earth and the UCG, Shepherd presents himself as the ultimate patriot, a warrior-leader willing to make the hard choices others lack the spine to make. Yet beneath his unwavering commitment to "victory at any cost" lies a military mind that routinely considers solutions of such apocalyptic scale that subordinates are forced to question whether the cure might be deadlier than the disease.
 
 Aggressive by nature and ruthless by philosophy, Shepherd embodies the paradox of totalizing military authority: a man who genuinely believes that obliterating cities is acceptable collateral damage if it secures strategic advantage. His record is marked by successful operations alongside decisions so extreme that even hardened commanders question his judgment. To his supporters, he is the only leader willing to do what must be done. To his critics, he is a war criminal waiting for the right conflict to justify his atrocities.
-
-**Assumed KIA - Executed by Wolf**
 
 **Background:**
 - Career naval officer with decades of strategic command experience
