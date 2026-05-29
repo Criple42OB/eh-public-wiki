@@ -1,4 +1,6 @@
-**President John Silverstone: Human, 46, Chancellor**
+**President John Silverstone: Human, 46, Ex-Chancellor**
+
+**KIA - Executed by Malice during the SASU Raid of the Black House.**
 
 An incredibly wealthy industrialist and politician with deep connections throughout the UCG government, Silverstone rose to power in the wake of President José's death during the bombings of the east coast. Morally ambiguous and pragmatic, he sees the galaxy through the lens of profit and power consolidation. His Operation Silverstone, launched under the guise of combating "revolutionary presence" in South America, leveled entire cities and displaced millions. His rule is marked by corporate interests influencing military decisions, though his charisma and political acumen allow him to maintain support among the upper echelons of UCG society.
 

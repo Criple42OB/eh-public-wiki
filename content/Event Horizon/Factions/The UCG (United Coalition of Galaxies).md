@@ -7,34 +7,32 @@
 > 
 > | Government Type | Capital |
 > | ---- | --- |
-> | Federal-Militaristic Technocracy | Washington D.C. |
+> | Federal-Militaristic Technocracy | N/A |
 > 
 > | Official Language | Population |
 > | ---- | --- |
-> | English (Primary), Spanish, Mandarin, Hindi (Recognized) | ~4.6 Billion (Earth) / ~30.8 Billion (Total) |
+> | English (Primary), Spanish, Mandarin, Hindi (Recognized) | ~33.8 Billion (Total) |
 > 
 > | Formation | Territory |
 > | ---- | --- |
-> | 2038 (Post-Unity Accords) | Most of Earth, Lunar Colonies, Mars Outposts, Select Exoplanets |
+> | 2038 (Post-Unity Accords) | Lunar Colonies, Mars Outposts, Select Exoplanets |
 > 
 > | Military Strength | Dominant Forces |
 > | ---- | --- |
-> | Largest in the known galaxy | Starship Navy, Orbital Defense Grid, Task Force Epsilon Star |
+> | Largest in the known galaxy | Starship Navy, Orbital Defense Grids, Task Force "Low Morale" |
 > 
 > | Administrative Body | Supreme Leader |
 > | ---- | --- |
-> | The Council (5 anonymous members) | José (Public Face, High Chancellor) |
+> | The Council (5 anonymous members) | Hariett Chen (Public Face, High Chancellor) |
 
 
 # Overview
 
 The **United Coalition Government (UCG)** is a unified federal superpower that emerged from the ashes of World War III and the global collapse of national sovereignty. It operates as a technocratic-militaristic regime focused on control, expansion, and stability through strength. Although originally formed under the guise of global peace and cooperation, the UCG quickly evolved into a galaxy-spanning empire through both diplomacy and overwhelming military superiority.
 
-The government is managed by **The Council**, an enigmatic group of five unseen leaders, with public governance delegated to **High Chancellor José**, a charismatic and manipulative figurehead. The UCG’s influence stretches across Earth, numerous space colonies, and strategic star systems.
+The government is managed by **The Council**, an enigmatic group of five unseen leaders, with public governance delegated to **High Chancellor Chen**, a well-received and anti-corruption leader, Some believe she is still unaware to the councils-existence. The UCG’s influence stretches across numerous space colonies and strategic star systems.
 
-Its military dominance is unrivaled, with its elite **Task Force Epsilon Star** considered among the most advanced units in the galaxy. The UCG maintains control through propaganda, surveillance, and brute force when necessary, while also spearheading massive technological, cybernetic, and AI advancements.
-
-Despite its unity and power, cracks are forming. Civil unrest brews in sectors like Europe and Asia, and a rogue faction has already rised against the regime’s rule. The UCG stands at a pivotal point in history, either to fully cement its control or fracture under the weight of rebellion and external cosmic forces.
+Its military dominance is unrivaled, with its elite **Task Force Epsilon Star** once considered among the most advanced units in the galaxy. The UCG maintains control through propaganda, surveillance, and brute force when necessary, while also spearheading massive technological, cybernetic, and AI advancements.
 
 # History
 
@@ -46,28 +44,20 @@ With Earth under its control, the UCG expanded outward. Colonies on the Moon, Ma
 
 However, discontent grew beneath the surface. In the early 2060s, revolts erupted across **Europe**, with nations such as **Germany**, **France**, and **Poland** rebelling against the UCG’s oppressive regime. **China** and **Russia** soon declared independence, forming sovereign states. These fractures marked the beginning of the **Coalition’s Decline Era**.
 
-Though still powerful, the UCG now faces mounting challenges from both internal resistance and external enemies, its once-unquestioned dominance slowly unraveling.
+Under the rule of John Silverstone, the Coalition undertook a large bombing campaign of South America, met with immediate public backlash.
+
+With further revolutions spreading throughout **South America** eventually leading to the death of then-president John Silverstone. Admiral Hariett Chen stepped up, and seized complete coalition control.
+
+Quickly after she started cease-fires with all but 2 factions on Earth, and ended multiple corrupt branches of government and limited spending to certain research projects led by Silverstone.
 
 ## Key Figures
-- **José**: The manipulative, charismatic leader and public face of the UCG.
-- **Black Shepard**: Admiral of the UCG Starship Navy, commands the 7th Armada.
-- **Niko**: 3-Star Admiral of the 3rd Capital Fleet (~90 ships), tactical genius.
-- **Fletch**: Colonel, decorated elite task force leader of **Task Force Epsilon Star**.
+- **Chen**: Current chancellor of the UCG, Responsible for potentially ending the coalition-ending War on Earth.
 
 ## Notable Locations
-- **Washington D.C.** – Capital of the UCG and governmental hub.
-- **New Prague** – Most populous UCG city (~62.1 million); heavily fortified.
-- **Old Hampshire** – Major recruitment and ideological training center.
-- **New Tijuana** – Floating metropolis; experimental AI-governed infrastructure.
-
-## Relations with Others
-- **Al-fifa**: Treats them as a terrorist insurgency; has executed multiple Glassing Runs across their territory and carries out multiple military operations both on ground and in space 
-- **British Empire**: Tense neutrality; has attempted covert influence operations.
-- **The Seraphic Concord**: Hostile, however currently under peace treaty; considers them existential threats. Has fought them in orbit and sub orbit on Earth.
-- **The Obsidian Dominion:** Hostile, however currently under peace treaty; considered a threat by most due to their secrecy, however rumours state that the UCG and Obsidian Dominion have a mutual arms pact with each other, the UCG possibly supplying them with arms despite their peace treaty stating they would not re arm after the First Galactic War.
+- **Mars** - Current Milky Way fleet Hub
+- **Dauntarus** - Potential future capital of the UCG
+- **New Martiaca** - Large UCG export planet just outside of traditional UCG claimed territory, though still under UCG control.
 
 ## Military
 - Operates the **largest starship-navy** in the galaxy, supported by AI-guided dreadnoughts and orbital platforms.
-- Boasts elite divisions such as **Task Force Epsilon Star**, used for interuniversal and high-risk missions.
 - Enforces global peace through intimidation, surveillance, and power projection.
-
