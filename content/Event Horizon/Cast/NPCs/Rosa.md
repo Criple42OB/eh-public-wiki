@@ -1,4 +1,4 @@
-**Rosa "Polla" Villa: Demihuman (Ferret-girl), 22, Sergeant, Fireteam lead of Echo Detachment**
+**Rosa "Polla" Villa: Demihuman (Ferret-girl), 22, Colonel, Lead of Epsilon Star Bravo split**
 
 Lost her father at the age of 6 to an Alfifa terrorist attack in New Tijuana, Rosa grew up with a burning need for vengeance and protection. That tragedy became her compass, she joined the UCG military with singular determination to dismantle the faction that had destroyed her family and so many others. She found kinship with Conner and Freudig early in her service; the three of them bonded over shared loss and became inseparable. When Conner and Freudig mysteriously disappeared during a covert operation, Rosa refused to accept their fate as sealed ever since. Unknowing that she was right. Her rapid rise through the ranks reflects both her combat prowess and her leadership abilities, culminating in her appointment as Sergeant and Fireteam lead of Echo Detachment. First major combat operation was the emergency deployment to Brasilia during Operation Silverstone alongside Luna and Grace, where she proved herself under the most intense circumstances imaginable.
 
