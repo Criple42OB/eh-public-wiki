@@ -21,3 +21,8 @@ Special Equipment/Items:
 - Experimental MetalKinesis: Allows the user to manipulate most metals  
 - Kinetic Weapon Control Tablet: An orbital weapons platform orbits above Jackal at all times, The tablet allows him to call down a strike from such. 
 - Experimental runny stuff™ enhancements allowing faster movement speeds
+
+**Medals:**
+- x1 Hero of the Alliance Medal
+- x1 Medal of Necromorph Combat Deployment 
+- x1 Medal of Heroship

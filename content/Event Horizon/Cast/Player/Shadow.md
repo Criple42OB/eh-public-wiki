@@ -42,3 +42,10 @@ He has an apartment in Sweden, with a fat orange cat named Emperor.
 Partially owns another penthouse in New Tokyo.
 He’s pretty much the only person who can handle any of his modified weapons without dislocating a shoulder or getting flung around.
 VERY good drinker, can drink human liquor for hours while barely feeling a buzz.
+
+**Medals:**
+- x1 Medal of Exceptional Leadership
+- x1 Medal of Relinquishment
+- x1 Hero of the Alliance Medal
+- x1 Medal of Necromorph Combat Deployment 
+- x1 Medal of Heroship

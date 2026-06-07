@@ -1,4 +1,4 @@
-**Quasi "Extinction Event": Aquatic Protogen, Experimental Specialist**
+**Quasi "Extinction Event": Aquatic Protogen, Lieutenat - Experimental Specialist**
 Genderless (Any Pronouns)
 
 *"stare" - Quasi*
@@ -26,6 +26,13 @@ Height: 5'5
 - Claws (Part of experimental augmentations, extremely durable metal alloy strong enough to puncture through most hulls and materials, along with shredding through biological components like a razor blade) 
 - Nanite Multitools (Function as bracelets until needed to do otherwise, inefficient weapons but can be used to form tools such as makeshift screwdrivers, wrenches, pliers, and other small hand tools)
 
-Trivia: 
+**Trivia:**
 - Expert in operating many different types of stellar vehicles, but can not drive a car.
 - Misses eating bladderfish on planet 4546B.
+
+**Medals:**
+- x1 Medal of Exceptional Piloting Service
+- x1 Hero of the Alliance Medal
+- x1 Medal of Necromorph Combat Deployment 
+- x1 Medal of Heroship
+- x1 Graduate of the Rising Star Program
