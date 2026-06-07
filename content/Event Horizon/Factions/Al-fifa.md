@@ -8,11 +8,11 @@
  >
  >| Official Language | Population |
  >| ---- | --- |
-> | Arabic, English, Spanish | ~432 Million | 
+> | Arabic, English, Spanish | ~812 Million | 
 > 
 > | Formation | Territory |
 > | ---- | --- |
-> | 2057 (Illegitimate) | Most of Northern Africa | 
+> | 2057 (Illegitimate) | Africa, Most of the Middle East | 
 
  
 
@@ -32,6 +32,7 @@ Their ideology blends brutal militarism with spiritual reverence for command and
 - **2057–2060**: Engaged in sporadic warfare with UCG outposts in North Africa and the Mediterranean.
 - **2065**: ARCA agents suspected of sabotaging UCG defense satellites.
 - **2069**: ARCA established full control of Africa.
+- **August 2069**: ARCA established control of the Middle East through land negotiations with the Maoists and Romanovs
 
 # Culture & Society
 - **Education:** Focused on military strategy, survival, and loyalty

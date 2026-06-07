@@ -8,11 +8,11 @@
 > 
 > | Official Language | Population |
 > | ---- | --- |
-> | German | ~293 Million |
+> | German | ~1.2 Billion |
 > 
 > | Formation | Territory |
 > | ---- | --- |
-> | 2069 (Declared) | Germany, Austria, Czechia, Slovakia, Poland, Italy |
+> | 2069 (Declared) | Europe, Iceland, Extreme North-Eastern Greenland |
 
 # Overview
 The **Fourth Reich** emerged from the fires of revolutionary chaos and UCG suppression in Central and Eastern Europe. Rising during the unrest that followed the Alfifa attacks on the eastern coast of America and the UCG's brutal responses, the Fourth Reich declared independence across six nations, unifying them under a fascist totalitarian ideology rooted in historical conquest and ethnic nationalism.
@@ -32,6 +32,8 @@ The movement channels deep historical grievances and memories of a long-forgotte
 - **April 2069**: Rapid militarization and territorial consolidation
 - **April 2069**: Toppiling and full take over of Paris, pushing into both Eastern Europe and France.
 - **June 2069**: Majority control of Europe established
+- **July 2069**: Kolossaler Titans unveiled
+- **August 2069**: War against the Romanovs declared, Alliance with the Seraphs announced
 
 # Culture & Society
 - **Ideology**: Ethnic nationalism, biological determinism, total state control
@@ -45,7 +47,7 @@ The **Kolossaler Titan Korps** were established in May 2069, Rapidly deployed to
 
 # Relations
 - **UCG**: Mortal enemy; the Reich views the UCG as degenerate globalism
-- **The Romanov Restoration**: Regional rival competing for European dominance
+- **The Romanov Restoration**: Total war
 - **The New Maoist Movement**: Ideological opposition despite distant territories
 
 # Legacy

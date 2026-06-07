@@ -8,7 +8,7 @@
 > 
 > | Official Language | Population |
 > | ---- | --- |
-> | Mandarin Chinese | ~1.8 Billion |
+> | Mandarin Chinese | ~2.6 Billion |
 > 
 > | Formation | Territory |
 > | ---- | --- |
@@ -29,7 +29,8 @@ The movement resurrects classical communist-collectivist ideology in an age of a
 - **2069**: Riots spread across major Chinese cities
 - **2069**: Chairman C.O.R.E declared supreme leader
 - **2069**: Taiwan and parts of North Korea absorbed into the collective
-- **2069–Present**: Mass collectivization of industry, agriculture, and society
+- **2069**: Mass collectivization of industry, agriculture, and society
+- **August 2069**: Peace treaty with the UCG enacted, Alliance talks with the Romanovs begun
 
 # Culture & Society
 - **Ideology**: Historical communism merged with AI governance and technological collectivism

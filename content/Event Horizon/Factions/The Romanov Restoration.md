@@ -8,7 +8,7 @@
 > 
 > | Official Language | Population |
 > | ---- | --- |
-> | Russian | ~230 Million |
+> | Russian | ~681 Million |
 > 
 > | Formation | Territory |
 > | ---- | --- |
@@ -28,6 +28,9 @@ The ideology centers on **Tsarist Nationalism**, a doctrine emphasizing autocrat
 - **2069**: Mass riots in St. Petersburg spark the independence movement
 - **2069**: Tsar Alexander formally declares the Romanov Restoration
 - **2069**: UCG forces withdraw from Russian territory following intense ODST combat
+- **July 2069**: Formation of the Solar Alliance 
+- **August 2069**: 10,000+ soldiers and ODST's lost during the Defence of Earth. Admiral Niko KIA during the battles
+- **August 2069**: Peace treaty with the UCG enacted, Alliance talks with the Maoist's begun
 
 # Culture & Society
 - **Religion**: Russian Orthodox Church is elevated to state institution

@@ -1,4 +1,4 @@
-**Quasi "Extinction Event": Aquatic Protogen, Lieutenat - Experimental Specialist**
+**Quasi "Extinction Event": Aquatic Protogen, Lieutenant - Special Weapons Operative**
 Genderless (Any Pronouns)
 
 *"stare" - Quasi*
