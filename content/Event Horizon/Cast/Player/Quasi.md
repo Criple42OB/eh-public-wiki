@@ -1,4 +1,4 @@
-**Quasi "Extinction Event": Aquatic Protogen, Lieutenant - Special Weapons Operative**
+**Quasi "Extinction Event": Aquatic Protogen, 1st Lieutenant - Special Weapons Operative**
 Genderless (Any Pronouns)
 
 *"stare" - Quasi*
@@ -35,4 +35,5 @@ Height: 5'5
 
 **Trivia:**
 - Expert in operating many different types of stellar vehicles, but can not drive a car.
+- Owner of Kusst
 - Misses eating bladderfish on planet 4546B.
