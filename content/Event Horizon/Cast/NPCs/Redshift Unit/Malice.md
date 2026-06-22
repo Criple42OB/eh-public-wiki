@@ -49,7 +49,11 @@ Before the freedom movements, He commanded the 32nd Special Operations Task Forc
 - Decorated multiple times for valor in IWI engagements
 - Perfect mission completion record (no known operational failures)
 - Known for adapting to impossible odds and achieving success regardless
-- Red Sun unit has maintained 100% objective completion rate under his command
+- Red Sun unit had maintained 100% objective completion rate under his command
+
+**Trivia:**
+Would rather DIE than miss a trip to skeggy butlins
 
 **Classification Note:**
-Malice's full name, origin, and personal history are classified above TOP SECRET/SCI compartment level. Even Admiral Niko does not possess complete dossier. Recommend no inquiries into identity or background.
+Malice's full name, origin, and personal history are classified above TOP SECRET/SCI compartment level. Even Admiral Niko did not possess a complete dossier. Recommend no inquiries into identity or background.
+
