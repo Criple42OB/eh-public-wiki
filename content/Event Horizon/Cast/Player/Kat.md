@@ -1,6 +1,28 @@
 **Katherine "Kat" Laswell: Human, 2nd Lieutenant.**
 
-Born an orphan on September 16th, 2046, she was known for running errands, but got recruited due to her scouting abilities. This, combined with her resourcefulness and improvising capabilities gained her a spot in Fletch's squad. Green eyes with slightly tanned skin, brown hair that fades to a dark blue. Jumpy, anxious but can hold herself down when needed.
+**Background:**
+
+Born an orphan on September 16th, 2046 (Or so said by her), She was known as an errand runner, exclusively working for people who needed quick transportation or "shit that had to be done quick".  Always proud of her capabilities, these jobs only made her a high value target for certain gangs. 
+
+Kat was forced to do borderline illegal (And, some illegal) jobs. This only worsened her attention problem.
+
+Broken, almost hanging by a thread, the only way to escape for her, was to join the UCG.
+
+**Personality:**
+
+Jumpy, anxious, she has never seen herself an example to follow: Just as a cautionary tale. She knows she's capable of doing more, but seemingly doesn't care to expand on her abilities. 
+
+Funnily enough, Laswell is a pretty social person, charming, even. Unprofessional most of the time, she struggles to keep a "serious" face if her life doesn't depend on it.
+
+Again, she fails to recognize most of her "bright spots" both personality and physically. Calling it "humbleness" as a disguise for her low self-esteem.
+
+**Appearance:**
+
+Quite "average" traits for a human, except her height. She runs small.
+
+Lightly tanned-orange skin, her olive green eyes glow under direct sunlight. Her short brown hair cut in tomboy sidetails barely reach her chest. She keeps the tails and ends dyed with a "Poseidon Blue" tint. She has HUGE eyebags, but they're less noticeable when she's fully awake. 
+
+Barely has any marks from basic training or combat (She's quite squeamish when it comes to scars on her.)
 
 **Armor:**
 - ODST Armor, Scout variant. Green streaks along the arms, as if they were veins.

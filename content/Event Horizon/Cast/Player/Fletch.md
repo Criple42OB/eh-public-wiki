@@ -35,6 +35,6 @@ She has heterochromia, One light blue eye and one green eye.
 - Fleet Command Tablet: A tablet she carries at all times which allows direct access to fleet wide communications
 
 **Trivia:**
-She owns a house similar to Malice's in Siberia, which is currently under UCG control. She also owns land on the moon. 
+She owns a house similar to Malice's in Siberia. She also owns land on the moon. 
 She has a doberman named Tur(ficker), an owl named Reinhold, and a black bear named Decker.
 She is married to Holly Amidie.

@@ -1,4 +1,4 @@
-**König "Todesbringer" [Last Name Unknown]: Demihuman (Catboy), Sergeant - Drop Fleet Commander**
+**König "Caeser" [Last Name Unknown]: Demihuman (Catboy), Sergeant - Drop Fleet Commander**
 
 **Background:**
 

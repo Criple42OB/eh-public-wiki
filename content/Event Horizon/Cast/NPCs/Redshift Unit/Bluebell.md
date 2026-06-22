@@ -1,4 +1,4 @@
-**Joseph Quinsley: Male Human, 38, Ex-UCG Admiral current Operative**
+**Joseph "Bluebell" Quinsley: Male Human, 38, Ex-UCG Admiral current Operative**
 
 One of only three known survivors of the Red Sun massacre, Quinsley carries both the scars and secrets of that catastrophic event. A newly recruited Admiral after being a Captain in Red-sun, his survival of one of the UCG's most infamous military massacres has granted him an almost mythological status among those who know of the tragedy. The trauma of that week fundamentally altered his worldview, transforming him from an ambitious captain into a more philosophical observer of military doctrine and strategy. He now operates in advisory capacities, though still tustles in the field.
 

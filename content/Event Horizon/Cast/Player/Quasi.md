@@ -1,4 +1,4 @@
-**Quasi "Extinction Event": Aquatic Protogen, 1st Lieutenant - Special Weapons Operative**
+**Quasi "Extinction Event" Jung: Aquatic Protogen, 1st Lieutenant - Special Weapons Operative**
 Genderless (Any Pronouns)
 
 *"stare" - Quasi*

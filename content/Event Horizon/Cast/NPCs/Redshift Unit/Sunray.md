@@ -1,6 +1,6 @@
-**Edmund Cross: Male Human, 39, Security Specialist - Captain**
+**Edmund "Sunray" Cross: Male Human, 39, Security Specialist - Captain**
 
-The current squad commander of Jackal's personal security detail assigned to him by Niko, Edmund is a former Red Sun operative who escaped UCG torture and was rescued by Niko. With over a decade of service in elite combat roles, he brings pure professionalism to his work protecting one of the UCG's most wanted target. His stoic demeanor and tactical precision reflect a man who has made peace with his past, though the weight of his Red Sun history never fully leaves him. Edmund commands respect through competence rather than charisma, and his uncompromising stance on operational security has made him indispensable to Jackal's survival in hostile environments.
+The current squad commander of Redshift and Jackal's personal security detail assigned to him by Niko, Edmund is a former Red Sun operative who escaped UCG torture and was rescued by Niko. With over a decade of service in elite combat roles, he brings pure professionalism to his work protecting one of the UCG's most wanted target. His stoic demeanor and tactical precision reflect a man who has made peace with his past, though the weight of his Red Sun history never fully leaves him. Edmund commands respect through competence rather than charisma, and his uncompromising stance on operational security has made him indispensable to Jackal's survival in hostile environments.
 
 **Background:**
 - Former Red Sun operative
