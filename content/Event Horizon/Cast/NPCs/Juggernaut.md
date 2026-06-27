@@ -1,4 +1,4 @@
-**Sarah "Juggernaut": Female Human, 28, 68W - Captain**
+**Sarah "Juggernaut": Female Human, 25, 68W - Captain**
 
 Calm under fire, composed in chaos, and unwavering in her commitment to her squad, Sarah is the emotional anchor of Fletch's squad. While others burn with rage or carry trauma, Juggernaut maintains the steady center that keeps operations focused and personnel alive. Her serious yet joking demeanor and caring nature have made her the squad's informal conscience, someone whom even the most volatile members defer to in critical moments. Modifications to her Mark VI Mjolnir Armor maximize her defensive capabilities, making her an excellent point-of-contact during breaches and assaults. Her presence is reassuring; squadmates know that if Juggernaut has your back, you will survive the mission.
 
