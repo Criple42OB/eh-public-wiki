@@ -21,8 +21,9 @@ Born to an agricultural labor family in Caracas, Ernesto enlisted in the UCG mil
 - Experimental MetalKinesis: Allows the user to manipulate most metals  
 - Kinetic Weapon Control Tablet: An orbital weapons platform orbits above Jackal at all times, The tablet allows him to call down a strike from such. 
 - Experimental runny stuff™ enhancements allowing faster movement speeds
+- Experimental OCTAV Arm system: 4 alloy-constructed arms on the back of his armor 
 
 **Medals:**
-- x1 Hero of the Alliance Medal
+- x2 Hero of the Alliance Medal
 - x1 Medal of Necromorph Combat Deployment 
 - x1 Medal of Heroship

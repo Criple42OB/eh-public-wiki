@@ -25,10 +25,12 @@ Height: 5'5
 **Special Equipment:**
 - Claws (Part of experimental augmentations, extremely durable metal alloy strong enough to puncture through most hulls and materials, along with shredding through biological components like a razor blade) 
 - Nanite Multitools (Function as bracelets until needed to do otherwise, inefficient weapons but can be used to form tools such as makeshift screwdrivers, wrenches, pliers, and other small hand tools)
+- Necro-Osis 
+- Prototype SenatoR Nanomachine system (Hardens in reaction to physical trauma, absorbing damage)
 
 **Medals:**
 - x1 Medal of Exceptional Piloting Service
-- x1 Hero of the Alliance Medal
+- x2 Hero of the Alliance Medal
 - x1 Medal of Necromorph Combat Deployment 
 - x1 Medal of Heroship
 - x1 Graduate of the Rising Star Program

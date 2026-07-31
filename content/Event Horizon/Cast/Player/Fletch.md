@@ -1,6 +1,6 @@
-**Fletch "Cripple": Angel - Demihuman (catgirl) hybrid, 38, Fleet Admiral**
+**Fletch "Cripple": Angel - Demihuman (catgirl) hybrid, 38, Fleet Admiral - Chair of the Solar Alliance**
 
-*"You bleed with me, I move heaven and earth for you." - Fletch*
+*"Humanitas Aeternas" - Fletch*
 
 **Background:**
 
@@ -21,7 +21,7 @@ Outside of her armor, she switches between the "butch" and "femme" lesbian. Some
 She has heterochromia, One light blue eye and one green eye.
 
 **Armor:** 
-- Mjolnir Powered AA/EOD variant (modified; Red eyes and completely blacked out armor)
+- Mjolnir Powered AA/EOD variant (modified; white/gold colour scheme, cat ear compliant, red eyes)
 
 **Primary Weapons:** 
 - Modified Exteria assault rifle (ACOG sight, 3mw red laser, grip, removable suppressor, tracer rounds)

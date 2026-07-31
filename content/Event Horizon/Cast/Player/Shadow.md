@@ -1,4 +1,4 @@
-**Lex "Shadow" Woode: Demon/Human Hybrid, 24, 18B Major, Epsilon Star Lead**
+**Lex "Shadow" Woode: Demon/Human Hybrid, 24, 18B Colonel, Epsilon Star Lead**
 
 *“We’ll handle it, we always do.” - Lex*
 
@@ -40,7 +40,7 @@ Lex was a demon-human hybrid and elite trauma team operator for the floating cit
 **Medals:**
 - x1 Medal of Exceptional Leadership
 - x1 Medal of Relinquishment
-- x1 Hero of the Alliance Medal
+- x2 Hero of the Alliance Medal
 - x1 Medal of Necromorph Combat Deployment 
 - x1 Medal of Heroship
 

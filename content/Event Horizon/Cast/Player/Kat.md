@@ -45,6 +45,6 @@ Barely has any marks from basic training or combat (She's quite squeamish when i
 - Dimensional Phase Core: Allows the user to phase through objects
 
 **Medals:**
-- x1 Hero of the Alliance Medal
+- x2 Hero of the Alliance Medal
 - x1 Medal of Necromorph Combat Deployment 
 - x1 Medal of Heroship

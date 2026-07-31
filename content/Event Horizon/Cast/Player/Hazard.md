@@ -17,6 +17,6 @@ Known troublemaker that's had constant issues with the local law, many such case
 - Extendable waist mounted robotic arms
 
 **Medals:**
-- x1 Hero of the Alliance Medal
+- x2 Hero of the Alliance Medal
 - x1 Medal of Necromorph Combat Deployment 
 - x1 Medal of Heroship
