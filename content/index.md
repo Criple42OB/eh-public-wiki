@@ -1,8 +1,9 @@
-**PMC Influence/threat**
-47th SKK "Skittle squad": Threatening influence, Large scale massacres attributed to them.
-ONI PMC: Low influence, Targets exclusivly UCG lone-wolf ships. UCG response by decreasing amount of lone missions.
-Ravenwing: Low influence, Grew influence after civilian casualites during the Colon Estate heist
-The Beakers: Low influence, Entirely underground operations.
+#**PMC Influence/threat**
+
+**47th SKK "Skittle squad":**  Threatening influence, Large scale massacres attributed to them.
+**ONI PMC:**  Low influence, Targets exclusivly UCG lone-wolf ships. UCG response by decreasing amount of lone missions.
+**Ravenwing:**  Low influence, Grew influence after civilian casualites during the Colon Estate heist
+**The Beakers:** Low influence, Entirely underground operations.
 
 **Overall ODST trust: 918/1000**
 
@@ -15,6 +16,8 @@ The threat system is as follows:
 - Threatening influence: A PMC whose operation is majority public facing, and/or against civilians. Leading to most/every major faction outlawing their activities, and attempts to locate leadership.
 - Overwhelming influence: A PMC whom has begun attacking major factions en-masse, leading to direct action being taken against them.
 
+
+#**Random lore**
 
 **Quasi Turtle Count: 7**
 
