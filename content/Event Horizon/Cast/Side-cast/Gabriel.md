@@ -9,7 +9,7 @@ Once the Right Hand of God and an esteemed member of the highest council, Gabrie
 - Wings damaged as punishment
 
 **Current Status:**
-- Held prisoner underneath the throne room of the Obsidian Dominion.
+- Released from Obsidian Captivity
 
 **Armor:**
 - Holy Plated Armor (worn and deteriorating)
