@@ -1,4 +1,4 @@
-#**PMC Influence/threat**
+# **PMC Influence/threat**
 
 **47th SKK "Skittle squad":**  Threatening influence, Large scale massacres attributed to them.
 **ONI PMC:**  Low influence, Targets exclusivly UCG lone-wolf ships. UCG response by decreasing amount of lone missions.
@@ -17,7 +17,7 @@ The threat system is as follows:
 - Overwhelming influence: A PMC whom has begun attacking major factions en-masse, leading to direct action being taken against them.
 
 
-#**Random lore**
+# **Random lore**
 
 **Quasi Turtle Count: 7**
 
