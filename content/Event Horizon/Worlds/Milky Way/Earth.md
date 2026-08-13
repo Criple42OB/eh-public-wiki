@@ -16,7 +16,7 @@
 >  
 > | Known Moons | Factions Present |  
 > |--------------|-----------------|  
-> | 1 (Luna) | United Coalition of Galaxies (UCG), Alfifa (contested zones) |
+> | 1 (Luna) | The Fourth Reich, The GSSU, New Maoists, Romanovs, Alfifa |
 
 # Overview  
 Once the cradle of human civilization, **Earth** now teeters on the edge of collapse and rebirth. After centuries of war, ecological collapse, celestial invasions, and internal rebellion, the planet has become a scarred testament to humanity’s resilience and hubris. Vast regions lie in ruin, cities turned to ash, forests to deserts, and oceans to acidic wastelands. Yet, in defiance of all odds, life persists.
