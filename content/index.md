@@ -1,3 +1,10 @@
+# **Combat Mechanics**
+## **Precision:**
+Accuracy is measured in calibres, each calibre being more accurate than the last.
+**Wildly:** A person who is firing more so at the shapes of many bodies, less than 20% chance of being hit by a single person shooting wildly, though very effective in groups.
+**Precisely:** A person who is actually aiming, 60% chance of being hit if not actively moving/fighting. 
+**Extremly precise:** A person who is skilled in aim, typically an ODST. >80% chance of being hit outside of fighting, >50% chance of being hit even with movement.
+
 # **PMC Influence/threat**
 
 **47th SKK "Skittle squad":**  Threatening influence, Large scale massacres attributed to them.
@@ -5,7 +12,7 @@
 **Ravenwing:**  Low influence, Grew influence after civilian casualites during the Colon Estate heist
 **The Beakers:** Low influence, Entirely underground operations.
 
-**Overall ODST trust: 918/1000**
+**Overall ODST trust: 900/1000**
 
 When a PMC threat raises, The publics trust on any and all ODST's will lower. Leading to lower trust rates and acceptances to planets in the alliance.
 The threat system is as follows:
@@ -27,7 +34,7 @@ Malice owns a Golden retriever and Lizard
 Shadow owns a fat orange cat named Emperor, a rabbit named Sol, and a horse named Clover
 Sydney owns a border collie named eggnog
 Wolf owns a bunny and a wolf named Jihad
-Niko owns a giant wolf and Gorilla
+Niko owned a giant wolf and Gorilla
 
 Monkeys follow the medical teams.
 High demons (Like Lillith) are afraid of Cats.

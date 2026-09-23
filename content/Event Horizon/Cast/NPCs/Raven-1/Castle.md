@@ -18,6 +18,10 @@ A brunette owlgirl with a scar along her left eye, Her armor is dark blue and op
 **Sidearm:**
 - Stolen Anima Works Smart Pistol MK5
 
+**Equipment:**
+- A stolen shield of light 
+- A mace made of Promesteel
+
 **Trivia:**
 - Childhood friend of Fletch Engel
 - Completed 2 semesters of Music Theory in college
