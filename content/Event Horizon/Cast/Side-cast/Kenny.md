@@ -1,4 +1,4 @@
-**Cain “Kenny” Kennedy: Demon, 63, Leader of Ravenwing Corps**
+**Cain “Kenny” Kennedy: Demon, 63, Imprisoned in De Gulag**
 
 *“You ain’t protecting the innocent. You’re protecting the illusion of control.” - Cain*
 
