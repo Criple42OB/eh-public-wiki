@@ -1,6 +1,6 @@
 > [!infobox|right wikipedia]+
 > # The Proxima Federation
-> ![[proxima .png]]
+> ![[proxima.png]]
 >
 > | Government Type | Capital |
 > | ---- | --- |
