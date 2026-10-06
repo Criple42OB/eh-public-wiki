@@ -21,7 +21,7 @@
 # Overview
 The **Proxima Federation** is a highly autonomous branch of the **United Coalition Government (UCG)** specializing in biomechanical development and high-caliber weapons production. It is also a major distributor of intergalactic loans to banks and private companies. Important documents, including tax records and reports, are routed through the Federation and are sometimes falsified for various reasons.
 
-Rather than operate as a conventional government, the Federation is run by a **Board of Directors**. Board members guide major decisions and oversee powerful sectors of the organization. President **Marcus P. Willow** oversees the board and often has the deciding vote in council-member elections.
+Rather than operating as a conventional government, the Federation is run by a **Board of Directors**. Board members guide major decisions and oversee powerful sectors of the organization. President **Marcus P. Willow** oversees the board and often has the deciding vote in council-member elections.
 
 The capital, **Sata B Prime**, houses many of the Federation’s factories, biolabs, political buildings, and warehouses. After the Federation bought out the black-hole habitat, it became a refuge for pirates fleeing their enemies and bounty hunters. Their presence has made the habitat increasingly unsafe for ordinary residents. The local government is heavily influenced, and at times bribed, by pirates in exchange for protection.
 
