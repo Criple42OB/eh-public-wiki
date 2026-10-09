@@ -26,7 +26,7 @@ The threat system is as follows:
 
 # **Random lore**
 
-**Quasi Turtle Count: 7**
+**Quasi Turtle Count: 9**
 
 Mary owns a beaver named castor and a Deer name Noko
 Fletch owns a black bear named Decker, an owl named Reinhold, and Doberman named Turficker
