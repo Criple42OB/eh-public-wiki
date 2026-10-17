@@ -9,10 +9,11 @@ Accuracy is measured in calibres, each calibre being more accurate than the last
 
 **47th SKK "Skittle squad":**  Threatening influence, Large scale massacres attributed to them.
 **ONI PMC:**  Low influence, Targets exclusivly UCG lone-wolf ships. UCG response by decreasing amount of lone missions.
-**Ravenwing:**  Low influence, Grew influence after civilian casualites during the Colon Estate heist
-**The Beakers:** Low influence, Entirely underground operations.
+**Ravenwing:**  No influence, Operations ceased after epilogue to Operation: Blackbird.
+**The Beakers:** Moderate influence, Operations targetting civilian kidnappings in multiple systems.
+**Epsilon:** Moderate influence, Terroristic actions in multiple systems.
 
-**Overall ODST trust: 900/1000**
+**Overall ODST trust: 512/1000**
 
 When a PMC threat raises, The publics trust on any and all ODST's will lower. Leading to lower trust rates and acceptances to planets in the alliance.
 The threat system is as follows:
