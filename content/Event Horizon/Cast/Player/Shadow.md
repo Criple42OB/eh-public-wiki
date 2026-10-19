@@ -1,4 +1,4 @@
-**Lex "Shadow" Woode: Demon/Human Hybrid, 24, 18B Colonel, Epsilon Star Lead**
+**Lex "Shadow" Woode: Demon/Human Hybrid, 27, 18B Colonel, Epsilon Star Lead**
 
 *“We’ll handle it, we always do.” - Lex*
 
@@ -49,3 +49,4 @@ He has an apartment in Sweden, with a fat orange cat named Emperor.
 Partially owns another penthouse in New Tokyo.
 He’s pretty much the only person who can handle any of his modified weapons without dislocating a shoulder or getting flung around.
 VERY good drinker, can drink human liquor for hours while barely feeling a buzz.
+His birthday is on November 14th.
