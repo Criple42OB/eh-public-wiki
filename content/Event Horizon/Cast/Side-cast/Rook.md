@@ -1,4 +1,4 @@
-**Reyes "Rook" Johan: Male Human, 26, Commander of the 331st ODST Detachment "Low Morale"**
+**Reyes "Rook" Johan: Male Human, 27, Commander of the 331st ODST Detachment "Low Morale"**
 
 An ambitious UCG officer, Rook commands the 331st ODST Detachment, a unit raised to fill the role once held by Task Force Epsilon Star. He leads with a measured, practical style, preferring clear plans and disciplined teamwork over theatrics. His father served alongside David "Wolf" Harris, and Rook grew up hearing stories of Wolf's service and the cost of keeping a squad alive. He respects his father's old comrade, but is determined to earn his own reputation rather than trade on that connection.
 

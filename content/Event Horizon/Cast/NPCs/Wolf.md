@@ -1,4 +1,4 @@
-**David "Wolf" Harris: Male Human, 49, Combat Mechanic - Vice Admiral of the GOA**
+**David "Wolf" Harris: Male Human, 49, Combat Mechanic - Vice Admiral of the GOA - K9 handler**
 
 A weathered veteran of the UCG starship navy dating back to 2044, Wolf has spent his career keeping machines running under fire. His stoic demeanor masks a dark past of the first war. A lone operative who operates by his own code. Forced his way into Fletch's squad, he became the mechanical backbone of the operation, capable of maintaining armor and weaponry in the most dire circumstances. Despite his serious and reserved nature, Wolf has proven himself indispensable to the squad, his engineering expertise often the difference between life and death in the field. He carries himself with the bearing of a man who has seen too much to be surprised by anything.
 
@@ -33,4 +33,9 @@ A weathered veteran of the UCG starship navy dating back to 2044, Wolf has spent
 - Portable diagnostic scanner for armor systems
 - Personal drone for reconnaissance
 
-**Note:** British. Probably solid fucking snake.
+**Medals:**
+- x1 Certificate of K9 Handling - Approved for deployment with K9's
+
+**Trivia:** 
+- British. Probably solid fucking snake.
+- His birthday is December 31st

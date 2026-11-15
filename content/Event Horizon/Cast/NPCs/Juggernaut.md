@@ -33,3 +33,6 @@ The victory was hollow. Instead of commendation, they were offered a choice by t
 - Portable medical stabilization system
 - Emergency supply cache (ammunition, medical supplies, repair kits)
 - TITs
+
+**Trivia:**
+- Her birthday is December 11th 

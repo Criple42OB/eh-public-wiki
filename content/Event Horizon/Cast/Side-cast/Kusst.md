@@ -1,4 +1,4 @@
-**Kusst "Angenehm" Jung, Demihuman (Duckboy), 26, Engineer/programmer under Mary's command**
+**Kusst "Angenehm" Jung, Demihuman (Duckboy), 27, Engineer/programmer under Mary's command**
 
 Raised in Germany in awful living conditions, A broken home, and poor for most of his childhood. Despite all of this, He was a child prodigy and was clearly ahead of most kids. He graduated highschool a year and a half earlier, Offered plenty of scholarships, and eventually attended Humboldt-Universität zu Berlin on full ride.
 In college, He met Mary, and quickly became good friends with her. Though it took him months before he felt fully comfortable with talking to her. He was very skiddish in every lecture, very nervous, very shy, almost to the point of yipping when people talked to him.

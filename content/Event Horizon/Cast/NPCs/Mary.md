@@ -24,4 +24,6 @@ Born into a nightmare, Mary spent her formative years in a classified experiment
 - Personal AI companion (integrated into armor systems)
 - A key part in the UCG's Mech research division
 
-**Note:** Owns a beaver on weekends
+**Trivia:** 
+- Owns a beaver and a deer, both reside in Germany.
+- Her birthday is December 20th, and she hates it because her friends and family always give her presents merged with christmas instead of on both days.

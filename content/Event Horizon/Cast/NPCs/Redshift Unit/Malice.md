@@ -1,4 +1,4 @@
-**[REDACTED] "Malice": Male Human(?), 38, Operative - Master Sergeant**
+**[REDACTED] "Malice": Male Human(?), 39, Operative - Master Sergeant**
 
 Identity classified. Records sealed. Known only by callsign "Malice," this operative is the epitome of disciplined lethality. Recruited into the UCG's elite 55th SAS regiment from the streets of London, he climbed ranks through unnaturally sharp combat instincts and an almost prescient understanding of tactical situations during Intergalactic War One. Relocated to Fleet Admiral Niko's command following his exceptional performance, Malice quickly became the nucleus of an elite task force. Now he commands Red Sun, an operationally cohesive unit of perfectly synchronized soldiers who move as a single organism.
 

@@ -1,4 +1,4 @@
-**Valerius Aegis: Male Angel, 3182, High Guard of the Kingdom of Heaven/Exarch of the Firmament**
+**Valerius Aegis: Male Angel, 3183, High Guard of the Kingdom of Heaven/Exarch of the Firmament**
 
 Valerius Aegis was fathered from an Archangel, whom taught him combat and the ways of the light since infancy. Valerius joined the Corps of Heaven, climbing slowly through the ranks before eventually being adorned Exarch of the Firmament, a special designation under the Kingdom of Heaven which at its peak had only ~50 members. 
 The designation served directly under Saint Peter, God, and the Archangels. Since the gutting of the ranks by Saint Peter, Only around ~20 members remain. Scattered throughout the galaxies and in hiding.

@@ -1,4 +1,4 @@
-**Samewa "Hammerhead" Umikaze: Demihuman (Shark Girl), 31, Sergeant**
+**Samewa "Hammerhead" Umikaze: Demihuman (Shark Girl), 32, Sergeant**
 
 Samewa Umikaze, known as "Hammerhead," comes from an upper-middle-class family and graduated college early with a nursing degree. However, she joined the UCG when tensions in the Middle East escalated, seeking a more direct role in military service. Her skills and discipline allowed her to rise rapidly through the ranks, and Fletch eventually took notice of her talent.
 

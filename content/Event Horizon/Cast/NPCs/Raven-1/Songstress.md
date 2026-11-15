@@ -1,4 +1,4 @@
-**Olga "Songstress" Collen: Female Human, 39, Master Sergeant - Scout**
+**Olga "Songstress" Collen: Female Human, 40, Master Sergeant - Scout**
 
 Olga Collen was once a musician on Earth before she was kidnapped by space bandits. After escaping, she developed into a highly capable covert operative known as Songstress Collen, using her musical background and natural charisma to manipulate situations to her advantage when needed. She became known for gathering critical intelligence and orchestrating information warfare against hostile factions, with her work contributing to the downfall of the rogue civilization, Copernod.
 She worked as a spy-for-hire for a majority of her career, Though she was hired by Cain and decided to stay with his squad indefinitely. 

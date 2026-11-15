@@ -4,11 +4,11 @@
 >
 > | Government Type | Capital |
 > | ---- | --- |
-> | Corporate Directorate | Sata B Prime |
+> | Militaristic commune | Sata B Prime |
 >
 > | Official Language | Population |
 > | ---- | --- |
-> | Various | ~398 Million |
+> | Various | ~302 Million |
 >
 > | Formation | Territory |
 > | ---- | --- |
@@ -16,14 +16,14 @@
 >
 > | Administrative Body | President |
 > | ---- | --- |
-> | Board of Directors | Marcus P. Willow |
+> | Military council | N/A |
 
 # Overview
 The **Proxima Federation** is a highly autonomous branch of the **United Coalition Government (UCG)** specializing in biomechanical development and high-caliber weapons production. It is also a major distributor of intergalactic loans to banks and private companies. Important documents, including tax records and reports, are routed through the Federation and are sometimes falsified for various reasons.
 
 Rather than operating as a conventional government, the Federation is run by a **Board of Directors**. Board members guide major decisions and oversee powerful sectors of the organization. President **Marcus P. Willow** oversees the board and often has the deciding vote in council-member elections.
 
-The capital, **Sata B Prime**, houses many of the Federation’s factories, biolabs, political buildings, and warehouses. After the Federation bought out the black-hole habitat, it became a refuge for pirates fleeing their enemies and bounty hunters. Their presence has made the habitat increasingly unsafe for ordinary residents. The local government is heavily influenced, and at times bribed, by pirates in exchange for protection.
+The capital, **Sata B Prime**, houses many of the Federation’s factories, biolabs, political buildings, and warehouses. After the Federation bought out the black-hole habitat, it became a refuge for pirates fleeing their enemies and bounty hunters. Their presence has made the habitat increasingly unsafe for ordinary residents. The local government is heavily influenced and at times bribed, by pirates in exchange for protection.
 
 # History
 The Federation was established in **2043** to handle mundane tasks and conduct biomechanical research and development. A major breakthrough came in **2046** with the creation of the **Protogens**: mechanically enhanced biological beings designed to be highly susceptible to influence and control. Many were made for slavery and manual labor, though their versatility also made them popular in combat and industry. Protogens were assigned to a wide range of work, including farming, construction, piloting, and starship repair and maintenance.
@@ -34,12 +34,18 @@ In **2054**, the **Extinction Event Program** was approved and given substantial
 
 Following E-001, **E-002 (Quasi)** and **E-003 (Phoebe)** were created. In **2066**, Quasi defected after being deployed to clear a small garden planet. The Federation shut down the program, prohibited the production of further Extinction Event soldiers, and nearly halted planetary exploitation. Bounty hunters and expeditionary forces were sent to recover Quasi, but the efforts were unsuccessful.
 
+After a series of hostilities committed by President Willow in **2069** without UCG approval or pre-discussion. The Federation entered a state of civil-war after a cyberattack from an unknown group of hackers attacked the central Protozenia server, causing every **Protogen** under Federation control to defect.
+Some stuck with the Federations cause, others did not. Mass infighting spread through every Federation planet. Eventually a group formed known as the **Protogen Revolutionary Army (PRA)** backed by Mary Laswell and Hariett Chen. 
+The PRA then went on to attack Sata B Prime directly, and by **November 2069** the old leadership had completely fallen. President Willow and E-001 had both been killed by an elite group of ODST's, and E-003 defected the Federation to join them.
+
+In just **2 weeks** following the take-over by the PRA, protests and riots had began rising around Sata B Prime, especially in one city a few miles west of the capital city. These riots quickly grew violent, with a group utilizing bio-chemical weapons with an extremely high lethality rate.
+
 ## Key Figures
-- **Marcus P. Willow** - President of the Federation and overseer of the Board of Directors.
+- **Marcus P. Willow** - President of the Federation and overseer of the Board of Directors. (Killed in November 2069)
 - **Dr. Otto V. Graves** - Lead scientist of the Extinction Event Program.
-- **E-001 (Soleil)** - Extinction Event soldier; active duty.
+- **E-001 (Soleil)** - Extinction Event soldier; active duty. (Killed in November 2069)
 - **E-002 (Quasi)** - Extinction Event soldier; defected from the Federation.
-- **E-003 (Phoebe)** - Extinction Event soldier; status reserved.
+- **E-003 (Phoebe)** - Extinction Event soldier; status reserved. (Defected in November 2069)
 
 ## Notable Locations
 - **Sata B Prime** - Capital of the Federation and location of its major industrial, scientific, and political facilities.

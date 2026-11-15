@@ -1,6 +1,8 @@
-**Astrid Kessler: Human, 36, Führer of The Fourth Reich**
+**Astrid Kessler: Human, 37, Deposed führer of The Fourth Reich - Exiled to Argentina**
 
 A commanding militaristic figure and absolute leader of The Fourth Reich, Astrid Kessler commands absolute loyalty through a combination of strategic brilliance, ruthless determination, and unshakeable authority. With piercing eyes, jet-black short hair, and an icy demeanor, she embodies the iron will necessary to lead a authoritarian regime dedicated to conquest and ideological supremacy. Loosely drawn from idealized historical military aesthetics, her presence itself commands obedience. She has elevated herself to a near-mythological status among her followers, viewing herself as both the architect of a new world order and the will of destiny incarnate.
+
+She was deposed after the New Prague disaster, and failing to capture Russia within a timely manner. Replaced by her head of internal security, Scharli Kirsch.
 
 **Origins & Rise to Power:**
 - Climbed through military ranks through exceptional tactical acumen and ruthless elimination of rivals
@@ -18,7 +20,3 @@ A commanding militaristic figure and absolute leader of The Fourth Reich, Astrid
 - Personally trained in multiple combat disciplines
 - Rarely seen without elite guards
 
-**Authority & Influence:**
-- Absolute dictatorship over The Fourth Reich
-- Unchallenged command of all military forces
-- Final word on all political and military decisions

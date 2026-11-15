@@ -1,4 +1,4 @@
-**President Hariett Chen: Female Human, 32, Chancellor**
+**President Hariett Chen: Female Human, 33, Chancellor**
 
 Chen joined the UCG Starship Navy at the age of 17, climbing the ranks with determination and pure will. Commanding her own fleet of ships by 22, becoming one of the youngest Fleet Admirals in UCG history. Her operational security was once the highest amongst the UCG following her strict guidelines and policies her staff were required to follow, and the standards they were to uphold to make it in her fleet. 
 

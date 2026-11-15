@@ -1,4 +1,4 @@
-**König "Caeser" [Last Name Unknown]: Demihuman (Catboy), 32, Captain - Drop Fleet Commander**
+**König "Caeser" [Last Name Unknown]: Demihuman (Catboy), 33, Captain - Drop Fleet Commander**
 
 König lost both of his parents in Alfifa terrorist attacks, their deaths fueling an unrelenting desire for vengeance. He joined the Spartan-IV program after seeing propaganda from Alfifa in New Prague, eager to channel his rage into military service. Rising through the ranks with distinctive competence and aggression, König was promoted to Sergeant and given command of an entire drop fleet of Helljumpers, a position that reflected both his combat capabilities and his commanding presence.
 

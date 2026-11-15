@@ -1,4 +1,4 @@
-**Chronois "Asym" Vextra: Angel (Lyafian), 138, Sergeant**
+**Chronois "Asym" Vextra: Angel (Lyafian), 139, Sergeant**
 
 Chronois Vextra is a Lyafian angelic operative most often seen with a single wing, a trait that has become a defining mark of her presence in the field. Beneath her shaded visor, she often zones out to assess enemy positions before they even arrive, using her instincts and tactical awareness to preempt threats before combat begins. With even a single wing, she can protect a squad from taking devastating casualties, making her one of the most dependable soldiers in her unit.
 

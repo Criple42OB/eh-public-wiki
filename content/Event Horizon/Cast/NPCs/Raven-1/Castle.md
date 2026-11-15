@@ -1,4 +1,4 @@
-**Eule "Castle" Abendroth: Demihuman (Owl Girl), 39, Colonel - Squad lead**
+**Eule "Castle" Abendroth: Demihuman (Owl Girl), 40, Colonel - Squad lead**
 
 Eule, known by the callsign "Castle" is a demihuman owlgirl and a colonel serving under Ravenwing. She was once a childhood friend of Fletch, though they drifted apart after she moved to Berlin for college. Her education was cut short by financial struggles. After moving to Brussels with her family, she lived peacefully for a few years before an Al-fifan terrorist attack struck the city, killing her youngest sister and mother. 
 Struck with grief she turned to military service. Failing the initial exam to join the UCG's RRT based out of London, she was left alone in the foreign city. 

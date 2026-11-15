@@ -1,4 +1,4 @@
-**Freudig "Hollenregen" Knabe: Demihuman (Dragonkin), 28, Suppressive fire specialist**
+**Freudig "Hollenregen" Knabe: Demihuman (Dragonkin), 29, Suppressive fire specialist**
 
 Freudig Knabe, known as "Hollenregen" is a dragonkin demihuman and a highly capable suppressive fire specialist under Castle. He works as a weapons smith with Ravenwing experts when not on duty, crafting and modifying weapons for the battlefield. He lost both parents at the age of five due to terrorist attacks in his city of Baghdad and was raised by his sister for most of his life.
 
@@ -15,9 +15,12 @@ A dragonkin demihuman with a broad, powerful frame and a large tail that require
 - Minigun mounted to his shoulder
 - Missile launcher mounted to the opposite shoulder
 - Prototype thrusters for hands and feet in development
+- 3 ODST MagNet™ attachment points on back
 
 **Primary Weapons:**
 - Stolen Modified Anima Works A-19 Assault Rifle
+- Modified Anime Works L1397 Machine Gun
+- Disposable Anti-Tank canister
 
 **Sidearm:**
 - Modified Patrone Inc F-6 Pistol
